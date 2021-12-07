@@ -1,0 +1,158 @@
+import random
+import os
+import socket
+import struct
+from hash_func import hash_func
+
+node_client = import_da('client')
+node_chord = import_da('chord')
+
+def fileread(filename):
+	# Read the entire input dataset
+	data = []
+	file = open(filename, 'r')
+	for line in file:
+		data.append(tuple(line.strip().split(' ')))
+	return data
+
+def runsetup(idx, m, node_tuples, hnkeys, hdata, hdkeys):
+	# Building data required to setup a node in Chord system
+	setup_args = {}
+	setup_args['pred_node'] = node_tuples[idx - 1]
+	setup_args['succ_node'] = node_tuples[(idx + 1) % len(hnkeys)]
+	setup_args['fingertable'] = runfingertable(idx, m, node_tuples, hnkeys)
+	setup_args['node_datas'] = setndata(idx, hdata, hdkeys, hnkeys)
+	return setup_args
+
+def runfingertable(idx, m, node_tuples, hnkeys):
+	hash_val = hnkeys[idx]
+	fingertable = []
+	for i in range(0, m):
+		fingerindex = indexvalueffind('L', hnkeys, (hash_val + 2**i) % 2**m)
+		fingertable.append(node_tuples[fingerindex % len(node_tuples)])
+	return fingertable
+
+def setndata(idx, hdata, hdkeys, hnkeys):
+	startl = hnkeys[idx - 1]
+	endl = hnkeys[idx]
+
+	start = indexvalueffind('R', hdkeys, startl)
+	end = indexvalueffind('R', hdkeys, endl)
+
+	data = {}
+	if startl <= endl:
+		for i in range(start, end):
+			hash_val = hdkeys[i]
+			data[hash_val] = hdata[hash_val]
+	else:
+		for i in range(start, len(hdkeys)):
+			hash_val = hdkeys[i]
+			data[hash_val] = hdata[hash_val]
+		for i in range(0, end):
+			hash_val = hdkeys[i]
+			data[hash_val] = hdata[hash_val]
+
+	return data
+
+def queryinp():
+	# Accept URL from the user to resolve
+	query = input("Query format <domain_name><space><query_type>: ")
+	inputs = query.split(' ')
+	return inputs[0], inputs[1]
+
+def indexvalueffind(type, sorted_hash_vals, value):
+	# Find the index of value in sorted_hash_vals list
+	try:
+		idx = sorted_hash_vals.index(value) 
+		if 'L' in type:
+			if idx == 0:
+				return 0
+			else:
+				return idx + 1
+		elif 'R' in type:
+			if idx == 0:
+				return 1 + 1
+			else:
+				return idx + 1 + 1
+	except Exception as e:
+		if len(sorted_hash_vals) == 1:
+			if sorted_hash_vals[0] > value:
+				return 0 + 1
+			else:
+				return 1 + 1
+		else:
+			for idx, val in enumerate(sorted_hash_vals):
+				if val > value:
+					if idx == 0:
+						return 0
+					else:
+						return idx - 1 + 1
+			return len(sorted_hash_vals)
+
+def main():
+
+	m = 64
+	#m = 256
+	
+	data = fileread('data/Data_Mapping.txt')
+
+	hash_vals = []
+	repeats = []
+	nodes = []
+	for i in data:
+		hash_val = hash_func(i[0], m)
+		if hash_val not in hash_vals:
+			hash_vals.append(hash_val)
+		else:
+			repeats.append((hash_val, i))
+	output('hash function collison: ', len(repeats))
+
+	hdata = {hash_func(data[0], m): data for data in data}
+	hdkeys = list(hdata.keys())
+	hdkeys.sort()
+
+	nodes = []
+	for i in range(0, 50):
+		nodes.append(socket.inet_ntoa(struct.pack('>I', random.randint(1, 0xffffffff))))
+
+	hnodes = {hash_func(node, m): node for node in nodes}
+	hnkeys = list(hnodes.keys())
+	hnkeys.sort()
+	output('Hash values for all the nodes in sorted order: ', hnkeys)
+
+	config(channel={'reliable', 'fifo'})
+	# Creating a process for each node
+	chord_processes = list(new(node_chord.Chord, num=len(hnkeys)))
+
+	
+	node_tuples = []
+	for i in range(0, len(hnkeys)):
+		node_tuples.append((hnkeys[i], chord_processes[i], nodes[i]))
+
+
+	# 
+	for i in range(0, len(hnkeys)):
+		setup_args = runsetup(i, m, node_tuples, hnkeys, hdata, hdkeys)
+		setup(chord_processes[i], args=(node_tuples[i], m, setup_args['pred_node'], setup_args['succ_node'], setup_args['fingertable'], setup_args['node_datas']))
+
+	# Initializing Chord
+	start(chord_processes)
+	#website, query_type = queryinp()
+	query_type = 'A'
+	#website = ['google.com','youtube.com','facebook.com','baidu.com','wikipedia.org','yahoo.com','google.co.in',
+	#'reddit.com','qq.com','amazon.com','taobao.com','twitter.com','tmall.com','google.co.jp','live.com',
+	#'vk.com','instagram.com','sohu.com','sina.com.cn','jd.com','weibo.com','360.cn']
+	website = []
+	k = 0
+	for j in data:
+		k += 1
+		website.append(j[0])
+		if k == 1000:
+			break
+
+	client_process = new(node_client.Client)
+	#setup(client_process, args=(client_process, m, node_tuples, [website], query_type))
+	setup(client_process, args=(client_process, m, node_tuples, website, query_type))
+	start(client_process)
+
+	await(False)

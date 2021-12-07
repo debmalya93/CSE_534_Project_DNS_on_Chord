@@ -1,0 +1,8 @@
+certifi==2020.11.8
+cffi==1.14.4
+joblib==0.17.0
+numpy==1.19.4
+pycparser==2.20
+pydistalgo==1.0.12
+threadpoolctl==2.1.0
+wincertstore==0.2

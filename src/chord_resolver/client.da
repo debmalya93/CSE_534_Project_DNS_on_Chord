@@ -1,0 +1,67 @@
+import logging
+import random
+import time
+from hash_func import hash_func
+from constants import *
+
+class Client(process):
+	def setup(client_process, m, node_tuples, website, query_type):
+		self.client_process= client_process
+		self.m = m
+		self.node_tuples = node_tuples
+		self.website = website
+		self.query_type = query_type
+		self.ctr = 0
+		self.start = {}
+		self.end = {}
+		self.resolution_latencies = set()
+		self.hops_ctr = 0
+		self.hops_nodes = []
+
+	def run():
+		output(self.client_process, " has been started.")
+		for name in self.website:
+			query = create_query(name)
+			seed = random.choice(self.node_tuples)
+			self.ctr += 1
+			self.start[query['request_id']] = time.time()
+			send(('find_next_node', query), to=seed[1])
+			output('Sent find_next_node message for query: {q} to {node}'.format(q=query, node=seed), level=logging.DEBUG)
+			await(query['request_id'] in self.end)
+		await(False)
+
+	def receive(msg=('next_node', query, succ_node)):
+		#  Once the owner of the key is found, lookup the key's value.
+		send(('get', query), to=succ_node[1])
+		output('Sent get to: ', succ_node, level=logging.DEBUG)
+
+	def receive(msg=('result', query, result, authority)):
+		#  Display the result obtained for a particular query
+		self.end[query['request_id']] = time.time()
+		if self.query_type == 'A':
+			outval = result[A]
+		elif self.query_type == 'MX':
+			outval = result[MX]
+		else:
+			outval = result[NS]
+		output('Result of query for {query} = {outval}'.format(query=query['website'], outval=outval))
+		self.resolution_latencies.add((self.end[query['request_id']] - self.start[query['request_id']]))
+		output('website : {website}, time : {TotalTime}, hop cnt : {hops_ctr}'.
+			   format(website=query['website'], hops_ctr=query['hops_ctr'],
+					  TotalTime=int(
+						  round((self.end[query['request_id']] - self.start[query['request_id']]) * 1000,
+								0))))
+
+	def create_query(name):
+		query = {
+			'website': name,
+			'hash_val': self.hash_func(name, self.m),
+			'request_id': self.obtain_request_id(),
+			'client_process': self.client_process,
+			'hops_ctr': self.hops_ctr,
+			'hops_nodes': self.hops_nodes
+		}
+		return query
+
+	def obtain_request_id():
+		return str(self.client_process) + '-' + str(self.ctr)
