@@ -1,0 +1,82 @@
+ 12    18 ms    13 ms    12 ms  iad23s60-in-f14.1e100.net [172.217.13.78] 
+ 12    11 ms    11 ms    11 ms  iad66s02-in-f14.1e100.net [172.217.0.46] 
+ 10    16 ms    13 ms    13 ms  edge-star-mini-shv-02-iad3.facebook.com [157.240.229.35] 
+ 18     *      220 ms   226 ms  220.181.38.148 
+ 11    38 ms    37 ms    37 ms  text-lb.eqiad.wikimedia.org [208.80.154.224] 
+ 11    17 ms    17 ms    16 ms  media-router-fp74.prod.media.vip.bf1.yahoo.com [74.6.143.26] 
+ 12    15 ms    13 ms    11 ms  iad30s43-in-f3.1e100.net [142.250.81.195] 
+  6     9 ms     5 ms     6 ms  151.101.193.140 
+ 16   226 ms   223 ms   224 ms  123.151.137.18 
+ 28    15 ms    11 ms    11 ms  s3-console-us-standard.console.aws.amazon.com [205.251.242.103] 
+ 11    36 ms    32 ms    32 ms  104.244.42.65 
+ 12    11 ms    11 ms    11 ms  iad30s46-in-f3.1e100.net [142.250.188.35] 
+  8    17 ms     7 ms     6 ms  a-0010.a-msedge.net [204.79.197.212] 
+ 12   119 ms   117 ms   117 ms  srv72-190-240-87.vk.com [87.240.190.72] 
+ 10    14 ms    13 ms    13 ms  instagram-p42-shv-02-iad3.fbcdn.net [157.240.229.174] 
+ 17     *      278 ms   274 ms  162.14.132.226 
+ 21   324 ms   304 ms   323 ms  123.125.104.150 
+ 28   300 ms   299 ms   301 ms  111.13.149.108 
+ 11   235 ms   235 ms   234 ms  36.51.254.228 
+ 16   259 ms   258 ms   266 ms  36.99.170.84 
+ 12    20 ms    11 ms    10 ms  iad66s01-in-f3.1e100.net [142.251.45.3] 
+ 12    13 ms    12 ms    11 ms  iad30s36-in-f3.1e100.net [142.250.73.227] 
+  9    10 ms    14 ms     7 ms  13.107.42.14 
+ 12    11 ms    11 ms    11 ms  iad30s46-in-f3.1e100.net [142.250.188.35] 
+ 12    12 ms    12 ms    12 ms  iad23s04-in-f3.1e100.net [142.251.45.99] 
+ 12    14 ms    11 ms    12 ms  iad23s61-in-f3.1e100.net [172.217.13.227] 
+ 14   109 ms   108 ms   109 ms  yandex.ru [77.88.55.80] 
+ 12    11 ms    11 ms    11 ms  iad23s61-in-f3.1e100.net [172.217.13.227] 
+ 17   180 ms   181 ms   179 ms  182.22.25.124 
+ 12    12 ms    11 ms    14 ms  iad30s46-in-f3.1e100.net [142.250.188.35] 
+ 12    12 ms    13 ms    13 ms  iad30s43-in-f3.1e100.net [142.250.81.195] 
+  8    11 ms     7 ms     7 ms  reflectededge.reflected.net [66.254.114.41] 
+  6     6 ms     5 ms     6 ms  199.232.192.193 
+  9    12 ms     7 ms     7 ms  13.107.21.200 
+ 11    82 ms    83 ms    82 ms  139.45.197.236 
+  6     6 ms     7 ms     5 ms  151.101.2.167 
+ 12    12 ms    11 ms    12 ms  iad23s04-in-f3.1e100.net [142.251.45.99] 
+ 12    13 ms    11 ms    11 ms  iad30s36-in-f3.1e100.net [142.250.73.227] 
+ 10     7 ms     8 ms     6 ms  109.71.161.200 
+ 17   166 ms   167 ms   170 ms  mail.ru [217.69.139.200] 
+ 16   124 ms   121 ms   123 ms  ip1.147.odnoklassniki.ru [217.20.147.1] 
+ 10     9 ms     7 ms     7 ms  192.0.78.9 
+  6     9 ms     6 ms     6 ms  151.101.129.69 
+ 25    16 ms    12 ms    11 ms  52.94.237.74 
+ 10    11 ms    12 ms    10 ms  lb-140-82-113-3-iad.github.com [140.82.113.3] 
+ 30    74 ms    74 ms    74 ms  54.239.45.131 
+  6     9 ms     8 ms    12 ms  151.101.128.84 
+ 17   240 ms   244 ms   239 ms  39.106.226.142 
+  6     6 ms     6 ms     5 ms  151.101.64.194 
+  6     9 ms     7 ms     7 ms  www.icmoud.com [17.253.144.10] 
+ 12    11 ms    11 ms    11 ms  iad23s04-in-f3.1e100.net [142.251.45.99] 
+ 11    18 ms    14 ms    12 ms  216.21.13.12 
+ 12    53 ms    48 ms    51 ms  157.185.175.105 
+  7    11 ms     7 ms     7 ms  net-88-23-conversasro.com [195.85.23.88] 
+ 17    45 ms    39 ms    41 ms  paypal.com [64.4.250.36] 
+ 12    11 ms    13 ms    11 ms  iad23s91-in-f3.1e100.net [142.250.65.67] 
+ 12    14 ms    11 ms    11 ms  iad23s63-in-f3.1e100.net [172.217.15.67] 
+ 10    14 ms    16 ms    14 ms  whatsapp-cdn-shv-02-iad3.fbcdn.net [157.240.229.60] 
+ 12    13 ms    11 ms    11 ms  iad30s24-in-f3.1e100.net [172.217.164.131] 
+  7     7 ms     8 ms     6 ms  104.18.155.3 
+ 11     7 ms     6 ms     6 ms  213.188.210.133 
+ 12    11 ms    11 ms    11 ms  iad30s43-in-f3.1e100.net [142.250.81.195] 
+ 10    16 ms    14 ms    14 ms  a23-40-60-144.deploy.static.akamaitechnologies.com [23.40.60.144] 
+ 19   247 ms   247 ms   246 ms  coccoc.com [123.30.175.29] 
+ 10    12 ms    12 ms    13 ms  www.craigslist.org [208.82.237.129] 
+  7    16 ms     6 ms     6 ms  104.21.234.38 
+  7     9 ms     6 ms     6 ms  162.125.248.18 
+ 12    11 ms    12 ms    10 ms  iad66s01-in-f3.1e100.net [142.251.45.3] 
+ 12    15 ms    11 ms    15 ms  iad66s03-in-f3.1e100.net [172.217.1.195] 
+ 12    13 ms    12 ms    13 ms  iad66s03-in-f3.1e100.net [172.217.1.195] 
+ 18   257 ms   260 ms   260 ms  124.225.206.22 
+ 12    12 ms    11 ms    11 ms  iad23s72-in-f3.1e100.net [172.217.2.99] 
+ 15   280 ms   264 ms   260 ms  220.181.151.206 
+  6     5 ms     5 ms     5 ms  151.101.128.81 
+ 12    11 ms    14 ms    11 ms  iad23s87-in-f3.1e100.net [142.250.73.195] 
+ 13    94 ms    94 ms    94 ms  static.11.168.76.144.clients.your-server.de [144.76.168.11] 
+  6     9 ms     7 ms     5 ms  151.101.0.81 
+ 19   183 ms   177 ms   177 ms  rakuten.co.jp [133.237.16.234] 
+ 12    12 ms     9 ms    10 ms  a23-208-59-187.deploy.static.akamaitechnologies.com [23.208.59.187] 
+  6     6 ms     5 ms     5 ms  151.101.193.67 
+ 10    14 ms    11 ms    12 ms  server-18-67-65-77.iad89.r.cloudfront.net [18.67.65.77] 
+ 12    11 ms    11 ms    13 ms  iad30s24-in-f3.1e100.net [172.217.164.131] 

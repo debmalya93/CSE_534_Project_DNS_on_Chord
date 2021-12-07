@@ -1,0 +1,2111 @@
+
+Tracing route to google.com [172.217.13.78]
+over a maximum of 30 hops:
+
+  1     6 ms     3 ms     3 ms  172.24.16.2 
+  2     *        6 ms     4 ms  129.49.7.105 
+  3     9 ms     7 ms    16 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     5 ms     7 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     5 ms     6 ms     5 ms  72.14.202.166 
+  6     7 ms     9 ms     6 ms  108.170.248.66 
+  7     8 ms     7 ms     8 ms  108.170.226.123 
+  8    15 ms    13 ms    12 ms  142.251.227.78 
+  9    15 ms    12 ms    12 ms  216.239.49.196 
+ 10    15 ms    13 ms    13 ms  108.170.246.33 
+ 11    19 ms    13 ms    13 ms  209.85.143.231 
+ 12    18 ms    13 ms    12 ms  iad23s60-in-f14.1e100.net [172.217.13.78] 
+
+Trace complete.
+
+Tracing route to youtube.com [172.217.0.46]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     4 ms  172.24.16.2 
+  2     7 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms    12 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5    10 ms     6 ms     5 ms  72.14.202.166 
+  6     7 ms     6 ms     8 ms  108.170.248.66 
+  7     7 ms     8 ms     *     142.251.69.57 
+  8    12 ms    12 ms    13 ms  108.170.233.159 
+  9    16 ms    12 ms    14 ms  142.251.49.16 
+ 10    21 ms    11 ms    11 ms  108.170.246.1 
+ 11    11 ms    11 ms    11 ms  142.251.77.61 
+ 12    11 ms    11 ms    11 ms  iad66s02-in-f14.1e100.net [172.217.0.46] 
+
+Trace complete.
+
+Tracing route to facebook.com [157.240.229.35]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        7 ms  129.49.7.105 
+  3     9 ms    12 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    17 ms    13 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    17 ms    12 ms    14 ms  be3083.ccr41.iad02.atlas.cogentco.com [154.54.30.54] 
+  7    17 ms    15 ms    17 ms  38.32.186.218 
+  8    15 ms    15 ms    14 ms  po106.psw01.iad3.tfbnw.net [157.240.43.125] 
+  9    16 ms    15 ms    15 ms  157.240.39.23 
+ 10    16 ms    13 ms    13 ms  edge-star-mini-shv-02-iad3.facebook.com [157.240.229.35] 
+
+Trace complete.
+
+Tracing route to baidu.com [220.181.38.148]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  172.24.16.2 
+  2     4 ms     6 ms     *     129.49.7.105 
+  3     6 ms     6 ms     9 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    14 ms     7 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    76 ms    76 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    76 ms    75 ms    76 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7     *      248 ms     *     chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8     *        *      228 ms  202.97.83.161 
+  9   220 ms   217 ms   217 ms  202.97.14.213 
+ 10   221 ms     *        *     202.97.34.73 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13   233 ms   219 ms   221 ms  220.181.17.94 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17   221 ms   220 ms     *     220.181.38.148 
+ 18     *      220 ms   226 ms  220.181.38.148 
+
+Trace complete.
+
+Tracing route to wikipedia.org [208.80.154.224]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  172.24.16.2 
+  2     7 ms     3 ms     3 ms  129.49.7.105 
+  3    16 ms     6 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     *        6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5    61 ms    18 ms     7 ms  de-cix-new-york.as13335.net [206.82.104.31] 
+  6     9 ms     9 ms     6 ms  172.70.112.2 
+  7    10 ms     7 ms     7 ms  172.70.113.92 
+  8     7 ms     7 ms     7 ms  172.70.113.39 
+  9    11 ms     7 ms     6 ms  172.70.113.9 
+ 10     *        *        *     Request timed out.
+ 11    38 ms    37 ms    37 ms  text-lb.eqiad.wikimedia.org [208.80.154.224] 
+
+Trace complete.
+
+Tracing route to yahoo.com [74.6.143.26]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.2 
+  2     *        4 ms     4 ms  129.49.7.105 
+  3     5 ms     7 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     9 ms     6 ms     7 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     7 ms     6 ms     5 ms  de-cix.pat1.nyc.yahoo.com [206.82.104.49] 
+  6    21 ms    17 ms    19 ms  ae-0.pat1.bfw.yahoo.com [209.191.64.153] 
+  7    16 ms    16 ms    18 ms  et-1-0-0.msr2.bf1.yahoo.com [74.6.227.45] 
+  8    19 ms    19 ms    18 ms  et-19-0-0.clr1-a-gdc.bf2.yahoo.com [74.6.122.41] 
+  9    16 ms    17 ms    29 ms  lo0.fab1-1-gdc.bf2.yahoo.com [74.6.123.244] 
+ 10    21 ms    17 ms    17 ms  usw2-1-lbb.bf2.yahoo.com [74.6.98.139] 
+ 11    17 ms    17 ms    16 ms  media-router-fp74.prod.media.vip.bf1.yahoo.com [74.6.143.26] 
+
+Trace complete.
+
+Tracing route to google.co.in [142.250.81.195]
+over a maximum of 30 hops:
+
+  1     4 ms     2 ms     2 ms  172.24.16.3 
+  2     4 ms     4 ms     5 ms  129.49.7.105 
+  3     8 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     5 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     8 ms     5 ms     5 ms  72.14.202.166 
+  6     8 ms     6 ms     6 ms  108.170.248.116 
+  7     8 ms     7 ms     7 ms  216.239.62.196 
+  8    15 ms    12 ms    13 ms  142.251.66.32 
+  9    12 ms    15 ms    12 ms  216.239.35.163 
+ 10    16 ms    11 ms    11 ms  108.170.246.1 
+ 11    14 ms    11 ms    12 ms  142.251.53.3 
+ 12    15 ms    13 ms    11 ms  iad30s43-in-f3.1e100.net [142.250.81.195] 
+
+Trace complete.
+
+Tracing route to reddit.com [151.101.193.140]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     4 ms  172.24.16.2 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     5 ms    23 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     7 ms     6 ms     8 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     6 ms     5 ms     5 ms  jfk1.decixny.fastly.net [206.82.104.29] 
+  6     9 ms     5 ms     6 ms  151.101.193.140 
+
+Trace complete.
+
+Tracing route to qq.com [123.151.137.18]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     4 ms  172.24.16.2 
+  2     7 ms     4 ms     *     129.49.7.105 
+  3     6 ms     7 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms     6 ms     9 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    74 ms    75 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    76 ms    75 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   248 ms   248 ms   250 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8     *      229 ms   230 ms  202.97.76.33 
+  9   233 ms   222 ms   221 ms  202.97.14.245 
+ 10   224 ms     *        *     202.97.34.157 
+ 11   242 ms   291 ms   374 ms  42.81.35.10 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16   226 ms   223 ms   224 ms  123.151.137.18 
+
+Trace complete.
+
+Tracing route to amazon.com [205.251.242.103]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4    10 ms     6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5    12 ms     9 ms    11 ms  de-cix.nyc.amazon.com [206.82.104.99] 
+  6     9 ms     8 ms     9 ms  52.93.51.37 
+  7     *        *        *     Request timed out.
+  8     6 ms    15 ms    11 ms  52.93.1.189 
+  9     9 ms     5 ms     7 ms  52.93.1.44 
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15    11 ms    11 ms    11 ms  52.93.28.198 
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27    13 ms    13 ms    13 ms  72.21.218.196 
+ 28    15 ms    11 ms    11 ms  s3-console-us-standard.console.aws.amazon.com [205.251.242.103] 
+
+Trace complete.
+
+Tracing route to taobao.com [140.205.220.96]
+over a maximum of 30 hops:
+
+  1    43 ms     4 ms     2 ms  172.24.16.2 
+  2     *        4 ms     8 ms  129.49.7.105 
+  3     9 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    77 ms    74 ms    76 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    75 ms    76 ms    78 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   149 ms   145 ms   145 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   245 ms   250 ms   242 ms  202.97.95.177 
+  9     *        *        *     Request timed out.
+ 10   253 ms   251 ms   249 ms  202.97.24.253 
+ 11   245 ms   246 ms     *     101.95.218.242 
+ 12     *      251 ms     *     101.95.208.86 
+ 13   247 ms   244 ms   245 ms  101.95.211.118 
+ 14   246 ms   245 ms   245 ms  42.120.241.30 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to twitter.com [104.244.42.65]
+over a maximum of 30 hops:
+
+  1    43 ms     3 ms     2 ms  172.24.16.3 
+  2    16 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    49 ms     8 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     6 ms     6 ms     6 ms  be3495.ccr31.jfk10.atlas.cogentco.com [66.28.4.182] 
+  6     6 ms     6 ms     6 ms  154.54.11.42 
+  7    16 ms    12 ms    13 ms  TenGE0-0-0-0.br04.ash01.pccwbtn.net [63.223.40.2] 
+  8    16 ms    12 ms    12 ms  TenGE0-0-0-0.br04.ash01.pccwbtn.net [63.223.40.2] 
+  9    15 ms    14 ms    17 ms  Twitter.BE5.br04.ash01.pccwbtn.net [63.218.94.250] 
+ 10     *        *        *     Request timed out.
+ 11    36 ms    32 ms    32 ms  104.244.42.65 
+
+Trace complete.
+
+Tracing route to tmall.com [140.205.130.99]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2    15 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    75 ms    72 ms    72 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    74 ms    74 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   250 ms   247 ms   247 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *      231 ms     *     202.97.57.158 
+ 11     *        *        *     Request timed out.
+ 12   229 ms   233 ms   234 ms  101.95.209.82 
+ 13     *        *        *     Request timed out.
+ 14     *        *      219 ms  42.120.241.42 
+ 15   221 ms   222 ms   246 ms  140.205.58.9 
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to google.co.jp [142.250.188.35]
+over a maximum of 30 hops:
+
+  1    43 ms     3 ms     2 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     5 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     5 ms     5 ms  72.14.202.166 
+  6     6 ms     6 ms     6 ms  108.170.248.99 
+  7     8 ms     6 ms     6 ms  142.250.57.145 
+  8    12 ms    12 ms    12 ms  142.251.65.241 
+  9    12 ms    13 ms    12 ms  142.251.49.161 
+ 10    12 ms    12 ms    12 ms  108.170.240.97 
+ 11    53 ms    12 ms    11 ms  142.251.69.209 
+ 12    11 ms    11 ms    11 ms  iad30s46-in-f3.1e100.net [142.250.188.35] 
+
+Trace complete.
+
+Tracing route to live.com [204.79.197.212]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.2 
+  2     *       10 ms    13 ms  129.49.7.105 
+  3     9 ms     7 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     9 ms     7 ms     6 ms  nysernet.nyc-96cbe-1a.ntwk.msn.net [104.44.14.139] 
+  6     7 ms     6 ms     6 ms  13.104.141.58 
+  7     *        *        *     Request timed out.
+  8    17 ms     7 ms     6 ms  a-0010.a-msedge.net [204.79.197.212] 
+
+Trace complete.
+
+Tracing route to vk.com [87.240.190.72]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.2 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     7 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    12 ms     5 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    77 ms    77 ms    76 ms  be3627.ccr41.par01.atlas.cogentco.com [66.28.4.198] 
+  6    86 ms    86 ms    86 ms  be2799.ccr41.fra03.atlas.cogentco.com [154.54.58.233] 
+  7    87 ms    86 ms    87 ms  be2845.rcr22.fra06.atlas.cogentco.com [154.54.56.190] 
+  8    88 ms    87 ms    86 ms  megafon.demarc.cogentco.com [149.14.69.90] 
+  9   117 ms   117 ms   119 ms  83.169.204.105 
+ 10   137 ms   132 ms   143 ms  83.169.204.77 
+ 11     *        *        *     Request timed out.
+ 12   119 ms   117 ms   117 ms  srv72-190-240-87.vk.com [87.240.190.72] 
+
+Trace complete.
+
+Tracing route to instagram.com [157.240.229.174]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.2 
+  2     5 ms     4 ms     4 ms  129.49.7.105 
+  3    17 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    12 ms    12 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    13 ms    12 ms    13 ms  be3083.ccr41.iad02.atlas.cogentco.com [154.54.30.54] 
+  7    48 ms    66 ms    41 ms  38.32.186.210 
+  8    14 ms    12 ms    15 ms  po104.psw04.iad3.tfbnw.net [31.13.28.99] 
+  9    16 ms    14 ms    15 ms  157.240.39.195 
+ 10    14 ms    13 ms    13 ms  instagram-p42-shv-02-iad3.fbcdn.net [157.240.229.174] 
+
+Trace complete.
+
+Tracing route to sohu.com [162.14.132.226]
+over a maximum of 30 hops:
+
+  1     5 ms     4 ms     3 ms  172.24.16.2 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     7 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     5 ms     5 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    72 ms    72 ms    73 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    74 ms    74 ms    74 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7     *      223 ms   142 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   229 ms     *      231 ms  202.97.52.61 
+  9     *        *        *     Request timed out.
+ 10   594 ms     *        *     202.97.83.14 
+ 11   309 ms   352 ms     *     101.95.218.58 
+ 12     *        *        *     Request timed out.
+ 13     *        *      304 ms  101.227.217.46 
+ 14     *        *        *     Request timed out.
+ 15   560 ms     *      248 ms  109.244.47.38 
+ 16   273 ms   246 ms     *     109.244.47.38 
+ 17     *      278 ms   274 ms  162.14.132.226 
+
+Trace complete.
+
+Tracing route to sina.com.cn [123.125.104.150]
+over a maximum of 30 hops:
+
+  1    72 ms     3 ms     2 ms  172.24.16.2 
+  2     *        *        7 ms  129.49.7.105 
+  3     9 ms     7 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     6 ms     7 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    21 ms    19 ms    21 ms  be2889.ccr21.cle04.atlas.cogentco.com [154.54.47.49] 
+  6    28 ms    26 ms    25 ms  be2717.ccr41.ord01.atlas.cogentco.com [154.54.6.221] 
+  7    37 ms    38 ms    39 ms  be2831.ccr21.mci01.atlas.cogentco.com [154.54.42.165] 
+  8    48 ms    48 ms    47 ms  be3035.ccr21.den01.atlas.cogentco.com [154.54.5.89] 
+  9    63 ms    58 ms    58 ms  be3037.ccr21.slc01.atlas.cogentco.com [154.54.41.145] 
+ 10    77 ms    73 ms    74 ms  be3109.ccr21.sfo01.atlas.cogentco.com [154.54.44.137] 
+ 11    75 ms    74 ms    77 ms  be3669.ccr41.sjc03.atlas.cogentco.com [154.54.43.10] 
+ 12   244 ms   243 ms   241 ms  38.88.224.14 
+ 13   241 ms   239 ms   238 ms  219.158.117.1 
+ 14   251 ms   242 ms   246 ms  219.158.3.141 
+ 15     *        *        *     Request timed out.
+ 16     *      304 ms     *     125.33.186.22 
+ 17     *      244 ms   277 ms  123.126.9.126 
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21   324 ms   304 ms   323 ms  123.125.104.150 
+
+Trace complete.
+
+Tracing route to jd.com [111.13.149.108]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  172.24.16.2 
+  2     *        6 ms     4 ms  129.49.7.105 
+  3     7 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     8 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    13 ms    18 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    31 ms    28 ms    28 ms  be2112.ccr41.atl01.atlas.cogentco.com [154.54.7.158] 
+  7    44 ms    41 ms    41 ms  be2687.ccr41.iah01.atlas.cogentco.com [154.54.28.70] 
+  8    61 ms    58 ms    57 ms  be2927.ccr21.elp01.atlas.cogentco.com [154.54.29.222] 
+  9    66 ms    67 ms    67 ms  be2930.ccr32.phx01.atlas.cogentco.com [154.54.42.77] 
+ 10    78 ms    80 ms    81 ms  be2932.ccr42.lax01.atlas.cogentco.com [154.54.45.162] 
+ 11    87 ms    77 ms    77 ms  be3359.ccr41.lax05.atlas.cogentco.com [154.54.3.70] 
+ 12   131 ms   129 ms   129 ms  38.104.85.162 
+ 13     *      131 ms   129 ms  223.120.6.217 
+ 14   318 ms     *      319 ms  223.120.12.214 
+ 15   319 ms     *      326 ms  221.183.55.106 
+ 16     *      355 ms   354 ms  221.183.46.250 
+ 17   360 ms   352 ms     *     221.176.21.185 
+ 18     *      322 ms   320 ms  111.24.17.162 
+ 19   323 ms   322 ms   321 ms  111.24.14.14 
+ 20     *      356 ms   355 ms  111.13.0.174 
+ 21   323 ms     *      322 ms  39.156.21.6 
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28   300 ms   299 ms   301 ms  111.13.149.108 
+
+Trace complete.
+
+Tracing route to weibo.com [36.51.254.228]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.2 
+  2     *        *        *     Request timed out.
+  3     6 ms     6 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    15 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     9 ms     6 ms     6 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6    10 ms     7 ms     7 ms  38.88.194.98 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9   217 ms   217 ms   219 ms  218.189.5.56 
+ 10     *        *        *     Request timed out.
+ 11   235 ms   235 ms   234 ms  36.51.254.228 
+
+Trace complete.
+
+Tracing route to 360.cn [36.99.170.84]
+over a maximum of 30 hops:
+
+  1     9 ms     5 ms     3 ms  172.24.16.2 
+  2     7 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     7 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    16 ms     6 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    72 ms    73 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    74 ms    74 ms    74 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   154 ms   144 ms   143 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   241 ms   241 ms   241 ms  202.97.70.38 
+  9   242 ms   241 ms   241 ms  202.97.91.146 
+ 10   261 ms   264 ms   261 ms  202.97.89.157 
+ 11   258 ms   257 ms   259 ms  202.97.45.30 
+ 12   266 ms   261 ms   261 ms  123.161.63.114 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16   259 ms   258 ms   266 ms  36.99.170.84 
+
+Trace complete.
+
+Tracing route to google.de [142.251.45.3]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.3 
+  2     7 ms     4 ms     4 ms  129.49.7.105 
+  3     8 ms     6 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     5 ms     5 ms     4 ms  72.14.202.166 
+  6    10 ms     9 ms     8 ms  108.170.248.66 
+  7    10 ms     8 ms     6 ms  142.251.69.57 
+  8    11 ms    11 ms    11 ms  108.170.225.157 
+  9    12 ms    11 ms    11 ms  142.251.49.163 
+ 10    12 ms    13 ms    13 ms  108.170.240.97 
+ 11    13 ms    11 ms    11 ms  142.251.70.83 
+ 12    20 ms    11 ms    10 ms  iad66s01-in-f3.1e100.net [142.251.45.3] 
+
+Trace complete.
+
+Tracing route to google.co.uk [142.250.73.227]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     9 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     5 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     5 ms     5 ms     5 ms  72.14.202.166 
+  6     7 ms     7 ms    10 ms  108.170.248.20 
+  7     8 ms     7 ms     7 ms  142.251.68.255 
+  8    17 ms    13 ms    16 ms  209.85.143.128 
+  9    17 ms    17 ms    19 ms  142.251.49.195 
+ 10    14 ms    12 ms    12 ms  108.170.246.1 
+ 11    15 ms    14 ms    12 ms  142.250.232.79 
+ 12    13 ms    12 ms    11 ms  iad30s36-in-f3.1e100.net [142.250.73.227] 
+
+Trace complete.
+
+Tracing route to linkedin.com [13.107.42.14]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.2 
+  2     *        6 ms     5 ms  129.49.7.105 
+  3     5 ms     5 ms     4 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5    11 ms     7 ms     6 ms  nysernet.nyc-96cbe-1a.ntwk.msn.net [104.44.14.139] 
+  6     *        *        *     Request timed out.
+  7     7 ms     7 ms     7 ms  13.104.141.206 
+  8     *        *        *     Request timed out.
+  9    10 ms    14 ms     7 ms  13.107.42.14 
+
+Trace complete.
+
+Tracing route to google.com.br [142.250.188.35]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        5 ms  129.49.7.105 
+  3     6 ms     5 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4    18 ms     5 ms     8 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     6 ms     6 ms  72.14.202.166 
+  6     9 ms     6 ms     7 ms  108.170.248.99 
+  7    12 ms     8 ms    34 ms  142.250.57.145 
+  8    28 ms    12 ms    11 ms  142.251.65.241 
+  9    16 ms    13 ms    15 ms  142.251.49.161 
+ 10    15 ms    13 ms    13 ms  108.170.240.97 
+ 11    52 ms    11 ms    11 ms  142.251.69.209 
+ 12    11 ms    11 ms    11 ms  iad30s46-in-f3.1e100.net [142.250.188.35] 
+
+Trace complete.
+
+Tracing route to google.fr [142.251.45.99]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     8 ms     5 ms     5 ms  72.14.202.166 
+  6    17 ms     8 ms     7 ms  108.170.248.66 
+  7    10 ms    12 ms    14 ms  142.251.68.251 
+  8    15 ms    12 ms    13 ms  142.251.69.27 
+  9    16 ms    15 ms    13 ms  142.251.49.76 
+ 10    15 ms    14 ms    13 ms  108.170.246.33 
+ 11    17 ms    12 ms    12 ms  142.251.70.111 
+ 12    12 ms    12 ms    12 ms  iad23s04-in-f3.1e100.net [142.251.45.99] 
+
+Trace complete.
+
+Tracing route to google.ru [172.217.13.227]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     8 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4    10 ms     6 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     6 ms     5 ms  72.14.202.166 
+  6     9 ms     7 ms     6 ms  108.170.248.84 
+  7     *       11 ms     6 ms  142.251.69.59 
+  8    11 ms    12 ms    11 ms  108.170.225.157 
+  9    12 ms    11 ms    12 ms  142.251.49.156 
+ 10    16 ms    14 ms    12 ms  108.170.246.33 
+ 11    25 ms    12 ms    13 ms  108.170.232.213 
+ 12    14 ms    11 ms    12 ms  iad23s61-in-f3.1e100.net [172.217.13.227] 
+
+Trace complete.
+
+Tracing route to yandex.ru [77.88.55.80]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     4 ms  172.24.16.2 
+  2     *        *       17 ms  129.49.7.105 
+  3     6 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     9 ms     7 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    77 ms    75 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    87 ms    83 ms    83 ms  be12194.ccr41.ams03.atlas.cogentco.com [154.54.56.94] 
+  7    94 ms    91 ms    90 ms  be2815.ccr41.ham01.atlas.cogentco.com [154.54.38.206] 
+  8    95 ms    97 ms    97 ms  be2496.rcr21.cph01.atlas.cogentco.com [154.54.61.222] 
+  9   106 ms   104 ms   103 ms  be2557.ccr22.sto03.atlas.cogentco.com [154.54.61.242] 
+ 10   113 ms   113 ms   115 ms  be2280.rcr21.hel01.atlas.cogentco.com [154.54.62.254] 
+ 11   121 ms   111 ms   111 ms  be2406.rcr21.hel03.atlas.cogentco.com [130.117.0.134] 
+ 12   114 ms   112 ms   111 ms  149.11.124.74 
+ 13     *        *        *     Request timed out.
+ 14   109 ms   108 ms   109 ms  yandex.ru [77.88.55.80] 
+
+Trace complete.
+
+Tracing route to netflix.com [54.155.246.232]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     5 ms  172.24.16.2 
+  2     *        *        *     Request timed out.
+  3    18 ms     7 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    15 ms     6 ms    14 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    80 ms    74 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    75 ms    76 ms  be2348.rcr21.b023101-0.lon13.atlas.cogentco.com [130.117.51.74] 
+  7    77 ms    75 ms    74 ms  149.11.45.82 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to google.com.hk [172.217.13.227]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.3 
+  2     7 ms     5 ms     7 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4    19 ms     8 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5    10 ms    14 ms     7 ms  72.14.202.166 
+  6     7 ms     7 ms     7 ms  108.170.248.84 
+  7    10 ms     6 ms     8 ms  142.251.69.59 
+  8    15 ms    11 ms    15 ms  108.170.225.157 
+  9    12 ms    15 ms    12 ms  142.251.49.156 
+ 10    15 ms    12 ms    13 ms  108.170.246.33 
+ 11    15 ms    12 ms    15 ms  108.170.232.213 
+ 12    11 ms    11 ms    11 ms  iad23s61-in-f3.1e100.net [172.217.13.227] 
+
+Trace complete.
+
+Tracing route to yahoo.co.jp [182.22.25.124]
+over a maximum of 30 hops:
+
+  1     3 ms     6 ms     4 ms  172.24.16.2 
+  2     *        8 ms     *     129.49.7.105 
+  3     9 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms    11 ms     7 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    12 ms    11 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    29 ms    28 ms    31 ms  be2112.ccr41.atl01.atlas.cogentco.com [154.54.7.158] 
+  7    44 ms    42 ms    43 ms  be2687.ccr41.iah01.atlas.cogentco.com [154.54.28.70] 
+  8    57 ms    57 ms    57 ms  be2927.ccr21.elp01.atlas.cogentco.com [154.54.29.222] 
+  9    69 ms    67 ms    67 ms  be2930.ccr32.phx01.atlas.cogentco.com [154.54.42.77] 
+ 10    77 ms    78 ms    79 ms  be2932.ccr42.lax01.atlas.cogentco.com [154.54.45.162] 
+ 11    81 ms    77 ms    78 ms  be3359.ccr41.lax05.atlas.cogentco.com [154.54.3.70] 
+ 12    77 ms    77 ms    77 ms  38.104.85.34 
+ 13   192 ms   184 ms   197 ms  tky001bb01.IIJ.Net [58.138.88.149] 
+ 14   185 ms   186 ms   184 ms  tky001ip57.IIJ.Net [58.138.102.110] 
+ 15   181 ms   189 ms   179 ms  210.130.154.162 
+ 16     *        *        *     Request timed out.
+ 17   180 ms   181 ms   179 ms  182.22.25.124 
+
+Trace complete.
+
+Tracing route to google.it [142.250.188.35]
+over a maximum of 30 hops:
+
+  1     3 ms     5 ms     2 ms  172.24.16.3 
+  2     4 ms     3 ms     3 ms  129.49.7.105 
+  3     6 ms     6 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     7 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     6 ms     5 ms  72.14.202.166 
+  6     6 ms     6 ms     6 ms  108.170.248.99 
+  7     9 ms     7 ms     8 ms  209.85.255.52 
+  8    14 ms    13 ms    16 ms  142.251.227.120 
+  9    15 ms    11 ms    13 ms  216.239.50.92 
+ 10    14 ms    11 ms    11 ms  108.170.246.1 
+ 11    11 ms    10 ms    11 ms  142.251.69.211 
+ 12    12 ms    11 ms    14 ms  iad30s46-in-f3.1e100.net [142.250.188.35] 
+
+Trace complete.
+
+Tracing route to ebay.com [216.113.179.53]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     5 ms     9 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     8 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     7 ms     7 ms     7 ms  be2273.rcr21.ewr03.atlas.cogentco.com [154.54.83.206] 
+  6     6 ms     9 ms     7 ms  38.122.35.186 
+  7    79 ms    79 ms    79 ms  209.140.191.193 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to google.es [142.250.81.195]
+over a maximum of 30 hops:
+
+  1    43 ms     3 ms     4 ms  172.24.16.3 
+  2     4 ms     4 ms     5 ms  129.49.7.105 
+  3     6 ms     5 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     7 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     9 ms     6 ms     7 ms  72.14.202.166 
+  6     7 ms     7 ms     7 ms  108.170.248.116 
+  7     9 ms     *        *     142.251.49.87 
+  8    13 ms    11 ms    10 ms  142.251.65.241 
+  9    17 ms    13 ms    13 ms  142.251.49.163 
+ 10    12 ms    11 ms    13 ms  108.170.246.1 
+ 11    12 ms    11 ms    11 ms  142.251.53.3 
+ 12    12 ms    13 ms    13 ms  iad30s43-in-f3.1e100.net [142.250.81.195] 
+
+Trace complete.
+
+Tracing route to pornhub.com [66.254.114.41]
+over a maximum of 30 hops:
+
+  1     3 ms     4 ms     2 ms  172.24.16.3 
+  2     *        4 ms     5 ms  129.49.7.105 
+  3     8 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     8 ms     7 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     7 ms     6 ms    11 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6    10 ms     8 ms     7 ms  haproxy.demarc.cogentco.com [38.88.194.218] 
+  7     9 ms    10 ms    10 ms  cust-reflected-svc11302.ip.reflected.net [64.210.143.161] 
+  8    11 ms     7 ms     7 ms  reflectededge.reflected.net [66.254.114.41] 
+
+Trace complete.
+
+Tracing route to imgur.com [199.232.192.193]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     5 ms     6 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     6 ms     5 ms     6 ms  199.232.192.193 
+
+Trace complete.
+
+Tracing route to bing.com [13.107.21.200]
+over a maximum of 30 hops:
+
+  1     7 ms    11 ms    10 ms  172.24.16.2 
+  2     *        7 ms     5 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     7 ms     5 ms  nysernet.nyc-96cbe-1a.ntwk.msn.net [104.44.14.139] 
+  6     *        *        *     Request timed out.
+  7     9 ms     7 ms     6 ms  13.104.141.206 
+  8     *        *        *     Request timed out.
+  9    12 ms     7 ms     7 ms  13.107.21.200 
+
+Trace complete.
+
+Tracing route to msn.com [13.82.28.61]
+over a maximum of 30 hops:
+
+  1     7 ms     9 ms     2 ms  172.24.16.3 
+  2     *        4 ms     4 ms  129.49.7.105 
+  3     6 ms     6 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     9 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     7 ms     5 ms  nysernet.nyc-96cbe-1a.ntwk.msn.net [104.44.14.139] 
+  6     8 ms     6 ms     8 ms  ae23-0.ear02.atl31.ntwk.msn.net [104.44.43.105] 
+  7    14 ms    13 ms    16 ms  be-24-0.ibr01.ewr30.ntwk.msn.net [104.44.33.211] 
+  8    17 ms    14 ms    20 ms  be-5-0.ibr01.nyc30.ntwk.msn.net [104.44.7.102] 
+  9    13 ms    22 ms    69 ms  be-8-0.ibr03.bl20.ntwk.msn.net [104.44.19.194] 
+ 10    13 ms    13 ms    13 ms  be-4-0.ibr03.bl7.ntwk.msn.net [104.44.16.179] 
+ 11    14 ms    11 ms    13 ms  ae140-0.icr01.bl7.ntwk.msn.net [104.44.21.206] 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to onclkds.com [139.45.197.236]
+over a maximum of 30 hops:
+
+  1    43 ms     3 ms     6 ms  172.24.16.2 
+  2     5 ms     4 ms     5 ms  129.49.7.105 
+  3    15 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     8 ms     8 ms     8 ms  be3294.ccr31.jfk05.atlas.cogentco.com [154.54.47.218] 
+  6    16 ms    18 ms     9 ms  ae-24.edge2.NewYork6.Level3.net [4.68.110.89] 
+  7     *        *        *     Request timed out.
+  8    13 ms     8 ms     8 ms  4.30.176.130 
+  9   104 ms    83 ms    84 ms  ae0-2.RT.IR9.AMS.NL.retn.net [87.245.232.123] 
+ 10    84 ms   103 ms    84 ms  89.19.38.7 
+ 11    82 ms    83 ms    82 ms  139.45.197.236 
+
+Trace complete.
+
+Tracing route to twitch.tv [151.101.2.167]
+over a maximum of 30 hops:
+
+  1     3 ms     4 ms     2 ms  172.24.16.3 
+  2     6 ms     4 ms     3 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     5 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     6 ms     7 ms     5 ms  151.101.2.167 
+
+Trace complete.
+
+Tracing route to google.com.mx [142.251.45.99]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     4 ms     5 ms     4 ms  129.49.7.105 
+  3     8 ms     7 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     6 ms     7 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     7 ms     5 ms  72.14.202.166 
+  6    13 ms     6 ms     6 ms  108.170.248.66 
+  7     8 ms     7 ms     7 ms  142.251.68.251 
+  8    14 ms    13 ms    13 ms  142.251.69.27 
+  9    13 ms    13 ms    13 ms  142.251.49.76 
+ 10    16 ms    15 ms    15 ms  108.170.246.33 
+ 11    15 ms    13 ms    12 ms  142.251.70.111 
+ 12    12 ms    11 ms    12 ms  iad23s04-in-f3.1e100.net [142.251.45.99] 
+
+Trace complete.
+
+Tracing route to google.ca [142.250.73.227]
+over a maximum of 30 hops:
+
+  1     5 ms     3 ms     7 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3    10 ms     5 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     8 ms     6 ms     6 ms  72.14.202.166 
+  6     7 ms     7 ms     7 ms  108.170.248.20 
+  7    11 ms     7 ms    12 ms  142.251.69.167 
+  8    16 ms    12 ms    12 ms  142.251.69.191 
+  9    15 ms    12 ms    12 ms  142.251.49.195 
+ 10    11 ms    12 ms    11 ms  108.170.246.1 
+ 11    15 ms    12 ms    12 ms  142.250.232.79 
+ 12    13 ms    11 ms    11 ms  iad30s36-in-f3.1e100.net [142.250.73.227] 
+
+Trace complete.
+
+Tracing route to tumblr.com [74.114.154.21]
+over a maximum of 30 hops:
+
+  1     3 ms     6 ms     3 ms  172.24.16.3 
+  2     8 ms     7 ms     5 ms  129.49.7.105 
+  3    12 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    11 ms     8 ms     6 ms  be3495.ccr31.jfk10.atlas.cogentco.com [66.28.4.182] 
+  6    10 ms     8 ms     7 ms  comcast.jfk10.atlas.cogentco.com [154.54.9.50] 
+  7     7 ms     6 ms     8 ms  be-3311-cs03.newyork.ny.ibone.comcast.net [96.110.34.25] 
+  8    10 ms    10 ms     6 ms  be-1312-cr12.newyork.ny.ibone.comcast.net [96.110.35.138] 
+  9     7 ms     6 ms     6 ms  be-301-cr11.newark.nj.ibone.comcast.net [96.110.36.145] 
+ 10    13 ms     8 ms     6 ms  be-1111-cs01.newark.nj.ibone.comcast.net [96.110.35.65] 
+ 11     *        *        *     Request timed out.
+ 12    12 ms    11 ms    12 ms  be-302-cr13.ashburn.va.ibone.comcast.net [96.110.36.117] 
+ 13    15 ms    13 ms    12 ms  be-1113-cs01.ashburn.va.ibone.comcast.net [96.110.34.145] 
+ 14    15 ms    13 ms    11 ms  be-2104-pe04.ashburn.va.ibone.comcast.net [96.110.37.130] 
+ 15    15 ms    12 ms    13 ms  50.208.234.154 
+ 16    20 ms    12 ms    12 ms  wordpress.com [198.181.119.129] 
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to gmw.cn [123.56.255.157]
+over a maximum of 30 hops:
+
+  1     5 ms     3 ms     4 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     7 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    77 ms    76 ms    76 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    82 ms    76 ms    75 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   147 ms   145 ms   144 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   229 ms   230 ms   230 ms  202.97.76.33 
+  9   228 ms   222 ms   223 ms  202.97.81.141 
+ 10     *      253 ms     *     202.97.48.209 
+ 11   238 ms     *        *     36.110.248.126 
+ 12     *        *      233 ms  36.110.248.246 
+ 13   229 ms   226 ms   235 ms  106.39.194.10 
+ 14   286 ms   551 ms   267 ms  45.112.216.21 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to alipay.com [110.75.139.5]
+over a maximum of 30 hops:
+
+  1    45 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        4 ms  129.49.7.105 
+  3     8 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    73 ms    72 ms    72 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    74 ms    75 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   143 ms   144 ms   147 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8     *      226 ms     *     202.97.52.41 
+  9   223 ms   223 ms   226 ms  202.97.50.194 
+ 10   271 ms   281 ms   267 ms  202.97.24.153 
+ 11     *      267 ms     *     101.95.218.58 
+ 12   229 ms   226 ms   227 ms  101.95.209.218 
+ 13   225 ms   224 ms   224 ms  180.163.38.90 
+ 14   232 ms   235 ms   227 ms  116.251.113.206 
+ 15   227 ms   227 ms   226 ms  116.251.95.233 
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to livejasmin.com [109.71.161.200]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  172.24.16.2 
+  2     *        *        *     Request timed out.
+  3     6 ms     7 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     5 ms     6 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     9 ms     6 ms     8 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6    11 ms    14 ms     8 ms  nyk-b3-link.ip.twelve99.net [213.248.81.248] 
+  7    14 ms    14 ms     8 ms  nyk-bb1-link.ip.twelve99.net [62.115.143.10] 
+  8     8 ms     9 ms     8 ms  nyk-b3-link.ip.twelve99.net [62.115.115.9] 
+  9     7 ms     7 ms     8 ms  docler-ic322402-nyk-b3.ip.twelve99-cust.net [213.248.95.235] 
+ 10     7 ms     8 ms     6 ms  109.71.161.200 
+
+Trace complete.
+
+Tracing route to xvideos.com [185.88.181.7]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     4 ms  172.24.16.3 
+  2    14 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     7 ms     8 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     6 ms     9 ms     8 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6     8 ms     8 ms     8 ms  nyk-b3-link.ip.twelve99.net [213.248.81.248] 
+  7    13 ms     9 ms    11 ms  nyk-bb2-link.ip.twelve99.net [62.115.143.12] 
+  8    85 ms    80 ms    80 ms  ldn-bb1-link.ip.twelve99.net [62.115.113.21] 
+  9    87 ms    94 ms    87 ms  adm-bb3-link.ip.twelve99.net [213.155.136.99] 
+ 10    88 ms    87 ms    88 ms  adm-b1-link.ip.twelve99.net [62.115.136.195] 
+ 11    84 ms    94 ms    84 ms  digitalocean-ic335926-adm-b1.ip.twelve99-cust.net [213.248.81.75] 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to mail.ru [217.69.139.200]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     2 ms  172.24.16.2 
+  2     *        *        *     Request timed out.
+  3     6 ms     6 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     5 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    72 ms    73 ms    72 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    82 ms    82 ms    84 ms  be12194.ccr41.ams03.atlas.cogentco.com [154.54.56.94] 
+  7    88 ms    88 ms    88 ms  be2815.ccr41.ham01.atlas.cogentco.com [154.54.38.206] 
+  8   101 ms   101 ms   102 ms  be2483.ccr21.waw01.atlas.cogentco.com [130.117.51.61] 
+  9   100 ms   100 ms   100 ms  be2486.rcr21.b016833-0.waw01.atlas.cogentco.com [154.54.37.42] 
+ 10   103 ms   100 ms   101 ms  149.6.70.250 
+ 11   119 ms   124 ms   118 ms  83.169.204.73 
+ 12   117 ms   119 ms   118 ms  83.169.204.117 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17   166 ms   167 ms   170 ms  mail.ru [217.69.139.200] 
+
+Trace complete.
+
+Tracing route to microsoft.com [40.112.72.205]
+over a maximum of 30 hops:
+
+  1    48 ms     7 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     9 ms     5 ms    10 ms  nysernet.nyc-96cbe-1a.ntwk.msn.net [104.44.14.139] 
+  6    14 ms     6 ms     6 ms  ae23-0.ear02.atl31.ntwk.msn.net [104.44.43.105] 
+  7    70 ms    68 ms    67 ms  be-25-0.ibr02.ewr30.ntwk.msn.net [104.44.33.213] 
+  8    67 ms    67 ms    67 ms  be-4-0.ibr02.sxl71.ntwk.msn.net [104.44.17.155] 
+  9    70 ms    67 ms    67 ms  be-18-0.ibr01.sin30.ntwk.msn.net [104.44.28.176] 
+ 10    67 ms    66 ms    66 ms  ae120-0.icr01.dub07.ntwk.msn.net [104.44.11.76] 
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to ok.ru [217.20.147.1]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        5 ms  129.49.7.105 
+  3     6 ms     6 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    73 ms    74 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    84 ms    88 ms    90 ms  be12194.ccr41.ams03.atlas.cogentco.com [154.54.56.94] 
+  7    91 ms    91 ms    90 ms  be2815.ccr41.ham01.atlas.cogentco.com [154.54.38.206] 
+  8   103 ms   102 ms   103 ms  be2483.ccr21.waw01.atlas.cogentco.com [130.117.51.61] 
+  9   101 ms   102 ms   101 ms  be2486.rcr21.b016833-0.waw01.atlas.cogentco.com [154.54.37.42] 
+ 10   101 ms   111 ms   102 ms  149.6.70.250 
+ 11   123 ms   120 ms   120 ms  83.169.204.73 
+ 12   119 ms   158 ms   122 ms  83.169.204.117 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16   124 ms   121 ms   123 ms  ip1.147.odnoklassniki.ru [217.20.147.1] 
+
+Trace complete.
+
+Tracing route to aliexpress.com [106.11.208.2]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     8 ms  172.24.16.2 
+  2     *        *        7 ms  129.49.7.105 
+  3     9 ms     7 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    72 ms    76 ms    83 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    73 ms    73 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   142 ms   143 ms   144 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   228 ms   231 ms   231 ms  202.97.76.33 
+  9   219 ms   218 ms   218 ms  202.97.12.109 
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13   234 ms     *      230 ms  36.110.169.226 
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to wordpress.com [192.0.78.9]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.3 
+  2     4 ms     3 ms     3 ms  129.49.7.105 
+  3    17 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     6 ms     7 ms     6 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6     8 ms     8 ms     8 ms  nyk-b3-link.ip.twelve99.net [213.248.81.248] 
+  7     8 ms     8 ms     8 ms  nyk-bb1-link.ip.twelve99.net [62.115.143.10] 
+  8     8 ms     8 ms     8 ms  nyk-b4-link.ip.twelve99.net [62.115.114.179] 
+  9     8 ms     8 ms     9 ms  automattic-svc068893-ic353510.ip.twelve99-cust.net [62.115.188.251] 
+ 10     9 ms     7 ms     7 ms  192.0.78.9 
+
+Trace complete.
+
+Tracing route to stackoverflow.com [151.101.129.69]
+over a maximum of 30 hops:
+
+  1     4 ms     4 ms     3 ms  172.24.16.3 
+  2     4 ms     6 ms     4 ms  129.49.7.105 
+  3     6 ms     7 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     9 ms     7 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     9 ms     6 ms     6 ms  151.101.129.69 
+
+Trace complete.
+
+Tracing route to imdb.com [52.94.237.74]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.2 
+  2     5 ms     4 ms     4 ms  129.49.7.105 
+  3     5 ms     6 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     7 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     7 ms     6 ms     6 ms  de-cix.nyc.amazon.com [206.82.104.99] 
+  6    15 ms    10 ms     9 ms  52.93.51.43 
+  7     *        *        *     Request timed out.
+  8     9 ms    15 ms     9 ms  52.93.1.205 
+  9     7 ms     6 ms     5 ms  52.93.1.60 
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15    13 ms    12 ms    14 ms  52.93.29.18 
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25    16 ms    12 ms    11 ms  52.94.237.74 
+
+Trace complete.
+
+Tracing route to github.com [140.82.113.3]
+over a maximum of 30 hops:
+
+  1     3 ms     4 ms     3 ms  172.24.16.3 
+  2     *        *        8 ms  129.49.7.105 
+  3     7 ms     6 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     7 ms     7 ms     7 ms  phil-9204-nyc-9208.cdn.nysernet.net [199.109.107.186] 
+  5    14 ms    14 ms    16 ms  ash-9204-phil-9204.cdn.nysernet.net [199.109.107.182] 
+  6    12 ms    11 ms    11 ms  eqix-dc5.github-2.com [206.126.237.205] 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10    11 ms    12 ms    10 ms  lb-140-82-113-3-iad.github.com [140.82.113.3] 
+
+Trace complete.
+
+Tracing route to amazon.co.jp [52.119.164.121]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     5 ms     5 ms     4 ms  129.49.7.105 
+  3    10 ms     5 ms     7 ms  nyc-9208-stonybrook.nysernet.net [199.109.5.129] 
+  4     9 ms     7 ms     6 ms  nyc32-55a1-nyc32-9208.nysernet.net [199.109.7.202] 
+  5    11 ms    11 ms    11 ms  syr-55a1-nyc32-55a1.nysernet.net [199.109.7.205] 
+  6    17 ms    18 ms    18 ms  buf-9208-syr-55a1.nysernet.net [199.109.7.214] 
+  7    23 ms    20 ms    20 ms  I2-CLEV-buf-9208.nysernet.net [199.109.11.34] 
+  8    68 ms    68 ms    68 ms  fourhundredge-0-0-0-21.4079.core1.clev.net.internet2.edu [163.253.2.142] 
+  9     *        *        *     Request timed out.
+ 10    68 ms    67 ms    68 ms  bundle-ether240.4076.core1.minn.net.internet2.edu [162.252.70.188] 
+ 11    69 ms    67 ms    67 ms  hundredge-0-0-0-30.4076.core1.miss2.net.internet2.edu [162.252.70.186] 
+ 12    64 ms    66 ms    65 ms  et-4-1-0.4077.rtsw.seat.net.internet2.edu [162.252.70.184] 
+ 13    67 ms    68 ms    66 ms  bundle-ether14.4078.core2.seat.net.internet2.edu [163.253.0.158] 
+ 14    67 ms    67 ms    68 ms  fourhundredge-0-0-0-51.4079.agg1.seat.net.internet2.edu [163.253.1.181] 
+ 15    68 ms    65 ms    66 ms  99.82.179.38 
+ 16    67 ms    66 ms    66 ms  52.95.52.12 
+ 17     *        *        *     Request timed out.
+ 18    68 ms    66 ms    66 ms  205.251.225.65 
+ 19    68 ms    65 ms    70 ms  52.95.53.147 
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25    76 ms    73 ms    73 ms  150.222.251.148 
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30    74 ms    74 ms    74 ms  54.239.45.131 
+
+Trace complete.
+
+Tracing route to pinterest.com [151.101.128.84]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.2 
+  2     7 ms     4 ms     9 ms  129.49.7.105 
+  3     7 ms     5 ms     9 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4    24 ms     6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     9 ms     8 ms    12 ms  151.101.128.84 
+
+Trace complete.
+
+Tracing route to csdn.net [39.106.226.142]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     2 ms  172.24.16.2 
+  2     4 ms     4 ms     6 ms  129.49.7.105 
+  3     7 ms     5 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    13 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    75 ms    74 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    76 ms    76 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   144 ms   146 ms   144 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   218 ms   222 ms   222 ms  202.97.83.161 
+  9   217 ms   218 ms   214 ms  202.97.12.129 
+ 10     *      225 ms     *     202.97.48.209 
+ 11     *        *        *     Request timed out.
+ 12   246 ms   232 ms   228 ms  106.38.196.246 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17   240 ms   244 ms   239 ms  39.106.226.142 
+
+Trace complete.
+
+Tracing route to wikia.com [151.101.64.194]
+over a maximum of 30 hops:
+
+  1     5 ms     3 ms     4 ms  172.24.16.2 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     7 ms     5 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     6 ms     6 ms     5 ms  151.101.64.194 
+
+Trace complete.
+
+Tracing route to apple.com [17.253.144.10]
+over a maximum of 30 hops:
+
+  1     5 ms     2 ms     6 ms  172.24.16.2 
+  2     4 ms     4 ms     6 ms  129.49.7.105 
+  3     6 ms     5 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     6 ms     6 ms     6 ms  ipv4.de-cix.nyc.us.as714.apple.com [206.82.104.65] 
+  6     9 ms     7 ms     7 ms  www.icmoud.com [17.253.144.10] 
+
+Trace complete.
+
+Tracing route to google.com.tr [142.251.45.99]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     5 ms     5 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     7 ms     5 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     9 ms     7 ms     5 ms  72.14.202.166 
+  6    10 ms     7 ms     7 ms  108.170.248.66 
+  7    27 ms     8 ms     7 ms  142.251.69.57 
+  8    14 ms    11 ms    11 ms  108.170.225.157 
+  9    11 ms    11 ms    12 ms  142.251.49.156 
+ 10    12 ms    13 ms    12 ms  108.170.246.33 
+ 11    11 ms    12 ms    11 ms  142.251.70.111 
+ 12    11 ms    11 ms    11 ms  iad23s04-in-f3.1e100.net [142.251.45.99] 
+
+Trace complete.
+
+Tracing route to popads.net [216.21.13.12]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  172.24.16.2 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3    16 ms     6 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     6 ms     6 ms     5 ms  be3495.ccr31.jfk10.atlas.cogentco.com [66.28.4.182] 
+  6     8 ms     6 ms     7 ms  ae-13.r01.nycmny17.us.bb.gin.ntt.net [129.250.8.145] 
+  7    10 ms    20 ms    14 ms  ae-2.r21.nwrknj03.us.bb.gin.ntt.net [129.250.6.96] 
+  8    13 ms    14 ms    12 ms  ae-3.r25.asbnva02.us.bb.gin.ntt.net [129.250.6.116] 
+  9    16 ms    13 ms    12 ms  ae-0.a00.asbnva02.us.bb.gin.ntt.net [129.250.5.152] 
+ 10    13 ms    23 ms    13 ms  xe-0-0-27-1.a00.asbnva02.us.ce.gin.ntt.net [130.94.195.58] 
+ 11    18 ms    14 ms    12 ms  216.21.13.12 
+
+Trace complete.
+
+Tracing route to youth.cn.wsglb0.com [157.185.175.105]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     4 ms     4 ms     6 ms  129.49.7.105 
+  3     8 ms     6 ms    12 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    21 ms    18 ms    19 ms  be2889.ccr21.cle04.atlas.cogentco.com [154.54.47.49] 
+  6    24 ms    24 ms    33 ms  be2717.ccr41.ord01.atlas.cogentco.com [154.54.6.221] 
+  7    36 ms    36 ms    36 ms  be2831.ccr21.mci01.atlas.cogentco.com [154.54.42.165] 
+  8    48 ms    47 ms    47 ms  be3035.ccr21.den01.atlas.cogentco.com [154.54.5.89] 
+  9    47 ms    49 ms    49 ms  be2401.rcr21.b006467-6.den01.atlas.cogentco.com [154.54.88.42] 
+ 10    47 ms    46 ms    48 ms  38.140.186.234 
+ 11     *        *        *     Request timed out.
+ 12    53 ms    48 ms    51 ms  157.185.175.105 
+
+Trace complete.
+
+Tracing route to bongacams.com [195.85.23.88]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.2 
+  2     *        *        *     Request timed out.
+  3     9 ms     5 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5    19 ms    25 ms    10 ms  de-cix-new-york.as13335.net [206.82.104.31] 
+  6    10 ms    20 ms     6 ms  172.70.112.2 
+  7    11 ms     7 ms     7 ms  net-88-23-conversasro.com [195.85.23.88] 
+
+Trace complete.
+
+Tracing route to paypal.com [64.4.250.36]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     6 ms  172.24.16.2 
+  2     *        4 ms     6 ms  129.49.7.105 
+  3     7 ms     8 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     8 ms     7 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     9 ms     8 ms     9 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6    16 ms    13 ms    10 ms  nyk-b3-link.ip.twelve99.net [213.248.81.248] 
+  7     8 ms     9 ms    11 ms  nyk-bb1-link.ip.twelve99.net [62.115.143.10] 
+  8    14 ms    15 ms    13 ms  rest-bb1-link.ip.twelve99.net [62.115.141.244] 
+  9    15 ms    15 ms    18 ms  ash-b2-link.ip.twelve99.net [62.115.123.123] 
+ 10    14 ms    12 ms    13 ms  f5networks-ic341208-ash-b2.ip.twelve99-cust.net [62.115.169.205] 
+ 11     *        *        *     Request timed out.
+ 12    14 ms    14 ms    13 ms  107.162.79.1 
+ 13    13 ms    15 ms    19 ms  107.162.16.242 
+ 14    14 ms    12 ms    12 ms  64.4.244.188 
+ 15    32 ms    29 ms    30 ms  64.4.243.188 
+ 16    30 ms    33 ms    31 ms  64.4.244.97 
+ 17    45 ms    39 ms    41 ms  paypal.com [64.4.250.36] 
+
+Trace complete.
+Unable to resolve target system name microsoftonline.com.
+
+Tracing route to google.com.tw [142.250.65.67]
+over a maximum of 30 hops:
+
+  1     4 ms     4 ms     5 ms  172.24.16.3 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     7 ms     6 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     7 ms    11 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     5 ms     6 ms  72.14.202.166 
+  6     7 ms     8 ms     7 ms  108.170.248.66 
+  7     7 ms     6 ms     6 ms  142.251.69.57 
+  8    13 ms    37 ms    40 ms  108.170.225.157 
+  9    19 ms    12 ms    11 ms  142.251.49.156 
+ 10    11 ms    10 ms    11 ms  108.170.246.65 
+ 11    11 ms    11 ms    12 ms  142.251.52.65 
+ 12    11 ms    13 ms    11 ms  iad23s91-in-f3.1e100.net [142.250.65.67] 
+
+Trace complete.
+
+Tracing route to google.com.au [172.217.15.67]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3    10 ms     9 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4    19 ms    11 ms    10 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     5 ms     5 ms     6 ms  72.14.202.166 
+  6     6 ms     9 ms     7 ms  108.170.248.99 
+  7    10 ms     7 ms     8 ms  142.251.68.253 
+  8    14 ms    14 ms    12 ms  142.251.69.21 
+  9    13 ms    12 ms    12 ms  142.251.49.188 
+ 10    14 ms    11 ms    11 ms  108.170.246.65 
+ 11    13 ms    12 ms    12 ms  209.85.251.83 
+ 12    14 ms    11 ms    11 ms  iad23s63-in-f3.1e100.net [172.217.15.67] 
+
+Trace complete.
+
+Tracing route to whatsapp.com [157.240.229.60]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     9 ms  172.24.16.2 
+  2     4 ms     5 ms     *     129.49.7.105 
+  3     5 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    12 ms    13 ms    11 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    14 ms    13 ms    12 ms  be3083.ccr41.iad02.atlas.cogentco.com [154.54.30.54] 
+  7    15 ms    17 ms    15 ms  38.32.186.210 
+  8    15 ms    13 ms    13 ms  po104.psw04.iad3.tfbnw.net [31.13.28.99] 
+  9    13 ms    13 ms    14 ms  157.240.36.121 
+ 10    14 ms    16 ms    14 ms  whatsapp-cdn-shv-02-iad3.fbcdn.net [157.240.229.60] 
+
+Trace complete.
+
+Tracing route to google.pl [172.217.164.131]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.3 
+  2     5 ms     4 ms     5 ms  129.49.7.105 
+  3     9 ms     6 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     7 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms    13 ms     6 ms  72.14.202.166 
+  6     7 ms     6 ms     7 ms  108.170.248.84 
+  7     7 ms     8 ms    10 ms  142.251.49.43 
+  8    16 ms    13 ms    20 ms  142.251.65.243 
+  9    14 ms    12 ms    53 ms  142.251.49.16 
+ 10    12 ms    12 ms    13 ms  108.170.240.97 
+ 11    12 ms    12 ms    12 ms  74.125.37.221 
+ 12    13 ms    11 ms    11 ms  iad30s24-in-f3.1e100.net [172.217.164.131] 
+
+Trace complete.
+
+Tracing route to xhamster.com [104.18.155.3]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.3 
+  2     4 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     5 ms     5 ms     5 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     7 ms     6 ms     8 ms  de-cix-new-york.as13335.net [206.82.104.31] 
+  6    18 ms    17 ms    20 ms  172.70.108.2 
+  7     7 ms     8 ms     6 ms  104.18.155.3 
+
+Trace complete.
+
+Tracing route to diply.com [213.188.210.133]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms    11 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     5 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     5 ms     6 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     6 ms     6 ms     6 ms  be3495.ccr31.jfk10.atlas.cogentco.com [66.28.4.182] 
+  6     6 ms     7 ms     6 ms  ae-13.r01.nycmny17.us.bb.gin.ntt.net [129.250.8.145] 
+  7    39 ms    30 ms     9 ms  ae-13.r20.nwrknj03.us.bb.gin.ntt.net [129.250.4.40] 
+  8     6 ms     8 ms     6 ms  ae-0.a01.nycmny17.us.bb.gin.ntt.net [129.250.3.153] 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     7 ms     6 ms     6 ms  213.188.210.133 
+
+Trace complete.
+
+Tracing route to google.co.id [142.250.81.195]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     2 ms  172.24.16.3 
+  2     4 ms     7 ms     4 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     5 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     6 ms     6 ms     6 ms  72.14.202.166 
+  6     9 ms     6 ms     6 ms  108.170.248.116 
+  7    10 ms     7 ms    14 ms  216.239.62.196 
+  8    15 ms    12 ms    14 ms  142.251.66.32 
+  9    14 ms    12 ms    11 ms  216.239.35.163 
+ 10    11 ms    11 ms    11 ms  108.170.246.1 
+ 11    12 ms    11 ms    11 ms  142.251.53.3 
+ 12    11 ms    11 ms    11 ms  iad30s43-in-f3.1e100.net [142.250.81.195] 
+
+Trace complete.
+
+Tracing route to adobe.com [23.40.60.144]
+over a maximum of 30 hops:
+
+  1     6 ms     2 ms     3 ms  172.24.16.2 
+  2     *        *        *     Request timed out.
+  3     9 ms     8 ms    10 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     9 ms     7 ms    43 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     9 ms     6 ms     7 ms  be3362.ccr31.jfk04.atlas.cogentco.com [154.54.3.10] 
+  6    11 ms     8 ms     8 ms  nyk-b3-link.ip.twelve99.net [213.248.81.248] 
+  7     8 ms     8 ms    13 ms  nyk-bb1-link.ip.twelve99.net [62.115.143.10] 
+  8    14 ms    15 ms    16 ms  bost-b2-link.ip.twelve99.net [62.115.122.203] 
+  9    22 ms    18 ms    15 ms  akamai-svc067834-ic351771.ip.twelve99-cust.net [62.115.184.71] 
+ 10    16 ms    14 ms    14 ms  a23-40-60-144.deploy.static.akamaitechnologies.com [23.40.60.144] 
+
+Trace complete.
+
+Tracing route to coccoc.com [123.30.175.29]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     4 ms  172.24.16.3 
+  2     4 ms     3 ms     3 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    12 ms    12 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    30 ms    28 ms    29 ms  be2112.ccr41.atl01.atlas.cogentco.com [154.54.7.158] 
+  7    45 ms    43 ms    63 ms  be2687.ccr41.iah01.atlas.cogentco.com [154.54.28.70] 
+  8    58 ms    59 ms    57 ms  be2927.ccr21.elp01.atlas.cogentco.com [154.54.29.222] 
+  9    68 ms    65 ms    67 ms  be2930.ccr32.phx01.atlas.cogentco.com [154.54.42.77] 
+ 10    77 ms    77 ms    77 ms  be2932.ccr42.lax01.atlas.cogentco.com [154.54.45.162] 
+ 11    82 ms    77 ms    77 ms  be3359.ccr41.lax05.atlas.cogentco.com [154.54.3.70] 
+ 12    81 ms    80 ms    77 ms  38.19.140.98 
+ 13    81 ms    81 ms    78 ms  223.118.10.81 
+ 14    80 ms    77 ms    78 ms  223.120.6.97 
+ 15   223 ms   224 ms   223 ms  223.120.2.30 
+ 16   220 ms   220 ms   221 ms  223.119.80.74 
+ 17   245 ms   245 ms   244 ms  static.vnpt.vn [113.171.27.34] 
+ 18   273 ms   270 ms   280 ms  static.vnpt.vn [113.171.21.179] 
+ 19   247 ms   247 ms   246 ms  coccoc.com [123.30.175.29] 
+
+Trace complete.
+
+Tracing route to craigslist.org [208.82.237.129]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     8 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    49 ms    11 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    13 ms    13 ms    12 ms  be3083.ccr41.iad02.atlas.cogentco.com [154.54.30.54] 
+  7    14 ms    14 ms    14 ms  be2712.agr01.iad02.atlas.cogentco.com [154.54.87.94] 
+  8    17 ms    13 ms    15 ms  te0-0-1-0.nr11.b023612-0.iad02.atlas.cogentco.com [154.24.43.102] 
+  9    15 ms    13 ms    15 ms  mail.responsiveds.com [38.104.56.106] 
+ 10    12 ms    12 ms    13 ms  www.craigslist.org [208.82.237.129] 
+
+Trace complete.
+
+Tracing route to txxx.com [104.21.234.38]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     3 ms  172.24.16.2 
+  2     *        7 ms     5 ms  129.49.7.105 
+  3     8 ms     7 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     7 ms     6 ms     7 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5    17 ms    12 ms     9 ms  de-cix-new-york.as13335.net [206.82.104.31] 
+  6     8 ms    11 ms    13 ms  172.70.108.2 
+  7    16 ms     6 ms     6 ms  104.21.234.38 
+
+Trace complete.
+
+Tracing route to dropbox.com [162.125.248.18]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.2 
+  2     4 ms     5 ms     4 ms  129.49.7.105 
+  3     7 ms     6 ms     7 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     9 ms     9 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5    12 ms     8 ms     7 ms  dropbox.com [198.32.160.118] 
+  6     6 ms     6 ms     6 ms  ae4-jfk1-ea01.net.dropbox.com [162.125.0.1] 
+  7     9 ms     6 ms     6 ms  162.125.248.18 
+
+Trace complete.
+
+Tracing route to amazon.de [52.95.120.34]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     2 ms  172.24.16.2 
+  2     *        4 ms     4 ms  129.49.7.105 
+  3    10 ms     6 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    65 ms     5 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    77 ms    73 ms    74 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    74 ms    74 ms  be2348.rcr21.b023101-0.lon13.atlas.cogentco.com [130.117.51.74] 
+  7    80 ms    77 ms    77 ms  149.11.161.178 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to google.com.ar [142.251.45.3]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms    10 ms  172.24.16.3 
+  2     9 ms     5 ms     *     129.49.7.105 
+  3     8 ms     4 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     6 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     8 ms     6 ms     6 ms  72.14.202.166 
+  6     9 ms     6 ms     7 ms  108.170.248.66 
+  7    10 ms     8 ms     7 ms  142.251.69.57 
+  8    13 ms    17 ms    11 ms  108.170.225.157 
+  9    16 ms    10 ms    11 ms  142.251.49.163 
+ 10    14 ms    11 ms    11 ms  108.170.240.97 
+ 11    11 ms    12 ms    10 ms  142.251.70.83 
+ 12    11 ms    12 ms    10 ms  iad66s01-in-f3.1e100.net [142.251.45.3] 
+
+Trace complete.
+
+Tracing route to amazon.in [52.95.120.67]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     7 ms     3 ms     3 ms  129.49.7.105 
+  3     7 ms     5 ms     5 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    16 ms    12 ms    19 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    72 ms    71 ms    71 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    73 ms    72 ms    71 ms  be2348.rcr21.b023101-0.lon13.atlas.cogentco.com [130.117.51.74] 
+  7    74 ms    73 ms    74 ms  149.11.161.178 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to google.com.pk [172.217.1.195]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     2 ms  172.24.16.3 
+  2     4 ms     3 ms     3 ms  129.49.7.105 
+  3     5 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     5 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     7 ms     5 ms     6 ms  72.14.202.166 
+  6     6 ms     5 ms     5 ms  108.170.248.35 
+  7    34 ms    29 ms    30 ms  142.251.69.62 
+  8    15 ms    12 ms    13 ms  108.170.233.159 
+  9    14 ms    12 ms    12 ms  142.251.49.16 
+ 10    12 ms    11 ms    12 ms  108.170.246.1 
+ 11    16 ms    11 ms    11 ms  142.251.77.65 
+ 12    15 ms    11 ms    15 ms  iad66s03-in-f3.1e100.net [172.217.1.195] 
+
+Trace complete.
+
+Tracing route to booking.com [5.57.16.220]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     4 ms  172.24.16.2 
+  2     *        *        7 ms  129.49.7.105 
+  3     8 ms     8 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    10 ms    12 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     6 ms     6 ms     6 ms  be3495.ccr31.jfk10.atlas.cogentco.com [66.28.4.182] 
+  6     *       10 ms     7 ms  zayo.jfk04.atlas.cogentco.com [154.54.9.63] 
+  7     *       80 ms     *     ae16.cs1.lga5.us.zip.zayo.com [64.125.25.56] 
+  8     *        *        *     Request timed out.
+  9     *        *       81 ms  ae0.cs1.lhr15.uk.eth.zayo.com [64.125.29.119] 
+ 10     *        *        *     Request timed out.
+ 11    81 ms    78 ms    77 ms  ae101.mpr1.ams19.nl.zip.zayo.com [64.125.28.185] 
+ 12    80 ms    80 ms    79 ms  94.31.33.62.T01358-05.above.net [94.31.33.62] 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to google.co.th [172.217.1.195]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     4 ms  172.24.16.3 
+  2     4 ms     2 ms     3 ms  129.49.7.105 
+  3     6 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     5 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     7 ms     5 ms     5 ms  72.14.202.166 
+  6     6 ms     5 ms     4 ms  108.170.248.35 
+  7     7 ms     7 ms     6 ms  142.251.69.62 
+  8    12 ms    11 ms    19 ms  108.170.233.159 
+  9    11 ms    13 ms    11 ms  142.251.49.16 
+ 10    12 ms    11 ms    13 ms  108.170.246.1 
+ 11    13 ms    13 ms    11 ms  142.251.77.65 
+ 12    13 ms    12 ms    13 ms  iad66s03-in-f3.1e100.net [172.217.1.195] 
+
+Trace complete.
+
+Tracing route to tianya.cn [124.225.206.22]
+over a maximum of 30 hops:
+
+  1     3 ms     5 ms     5 ms  172.24.16.2 
+  2     *        *        4 ms  129.49.7.105 
+  3     6 ms     6 ms     8 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms     8 ms     7 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    73 ms    72 ms    72 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    76 ms    75 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   196 ms   193 ms   198 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   293 ms   301 ms   292 ms  202.97.70.38 
+  9   302 ms     *      306 ms  202.97.94.105 
+ 10   247 ms   246 ms   244 ms  202.97.94.125 
+ 11   304 ms   306 ms   305 ms  218.77.137.138 
+ 12   307 ms   304 ms   321 ms  218.77.138.182 
+ 13   325 ms   315 ms   311 ms  218.77.136.170 
+ 14   252 ms   252 ms   252 ms  124.225.124.97 
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18   257 ms   260 ms   260 ms  124.225.206.22 
+
+Trace complete.
+
+Tracing route to google.com.eg [172.217.2.99]
+over a maximum of 30 hops:
+
+  1    43 ms     3 ms     3 ms  172.24.16.3 
+  2     4 ms     5 ms     4 ms  129.49.7.105 
+  3     7 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     5 ms     5 ms    22 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5    10 ms     5 ms    10 ms  72.14.202.166 
+  6     9 ms     6 ms     6 ms  108.170.248.35 
+  7     7 ms     7 ms     7 ms  209.85.255.52 
+  8    15 ms    13 ms    13 ms  142.251.66.32 
+  9    15 ms    13 ms    11 ms  216.239.48.100 
+ 10    11 ms    12 ms    12 ms  108.170.246.65 
+ 11    14 ms    11 ms    11 ms  209.85.252.19 
+ 12    12 ms    11 ms    11 ms  iad23s72-in-f3.1e100.net [172.217.2.99] 
+
+Trace complete.
+
+Tracing route to china.com [220.181.151.206]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     4 ms  172.24.16.2 
+  2     4 ms     3 ms     3 ms  129.49.7.105 
+  3     5 ms     5 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms     5 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    75 ms    71 ms    72 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    77 ms    73 ms    78 ms  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com [154.54.61.158] 
+  7   197 ms   194 ms   198 ms  chinatelecom.demarc.cogentco.com [149.14.81.226] 
+  8   283 ms   287 ms   279 ms  202.97.76.33 
+  9   273 ms   274 ms   271 ms  202.97.12.117 
+ 10   291 ms     *      286 ms  202.97.53.113 
+ 11     *        *        *     Request timed out.
+ 12   289 ms   281 ms   287 ms  36.110.244.214 
+ 13   285 ms   285 ms   282 ms  36.110.142.142 
+ 14   285 ms   285 ms   279 ms  36.110.142.186 
+ 15   280 ms   264 ms   260 ms  220.181.151.206 
+
+Trace complete.
+
+Tracing route to bbc.co.uk [151.101.128.81]
+over a maximum of 30 hops:
+
+  1    10 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms     4 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     6 ms     5 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     5 ms     5 ms     5 ms  151.101.128.81 
+
+Trace complete.
+
+Tracing route to google.com.sa [142.250.73.195]
+over a maximum of 30 hops:
+
+  1     7 ms     5 ms     6 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     6 ms    13 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     7 ms     5 ms     5 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5    11 ms     5 ms     5 ms  72.14.202.166 
+  6     8 ms     6 ms     8 ms  108.170.248.99 
+  7     8 ms     6 ms     6 ms  142.251.68.253 
+  8    15 ms    13 ms    11 ms  142.251.69.23 
+  9    13 ms    11 ms    13 ms  142.251.49.188 
+ 10    12 ms    11 ms    11 ms  108.170.246.33 
+ 11    12 ms    11 ms    11 ms  142.250.232.95 
+ 12    11 ms    14 ms    11 ms  iad23s87-in-f3.1e100.net [142.250.73.195] 
+
+Trace complete.
+
+Tracing route to savefrom.net [144.76.168.11]
+over a maximum of 30 hops:
+
+  1     6 ms     4 ms     2 ms  172.24.16.3 
+  2     3 ms     5 ms     3 ms  129.49.7.105 
+  3     5 ms     5 ms     7 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     5 ms     5 ms     5 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    79 ms    76 ms    76 ms  be3627.ccr41.par01.atlas.cogentco.com [66.28.4.198] 
+  6    86 ms    90 ms   101 ms  be2799.ccr41.fra03.atlas.cogentco.com [154.54.58.233] 
+  7    91 ms    93 ms    95 ms  be2959.ccr21.muc03.atlas.cogentco.com [154.54.36.54] 
+  8    93 ms    93 ms   100 ms  be2279.rcr21.nue01.atlas.cogentco.com [154.54.37.145] 
+  9    94 ms    94 ms    93 ms  be2830.nr01.b040138-0.nue01.atlas.cogentco.com [154.25.11.190] 
+ 10    92 ms    93 ms    92 ms  149.6.158.186 
+ 11   114 ms   100 ms   101 ms  core24.fsn1.hetzner.com [213.239.245.54] 
+ 12    96 ms    94 ms    94 ms  ex9k1.dc11.fsn1.hetzner.com [213.239.203.146] 
+ 13    94 ms    94 ms    94 ms  static.11.168.76.144.clients.your-server.de [144.76.168.11] 
+
+Trace complete.
+
+Tracing route to amazon.co.uk [54.239.34.171]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.3 
+  2     3 ms     4 ms     8 ms  129.49.7.105 
+  3     7 ms     7 ms     8 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     7 ms     8 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    72 ms    74 ms    73 ms  be2317.ccr41.lon13.atlas.cogentco.com [154.54.30.186] 
+  6    79 ms    76 ms    80 ms  be2348.rcr21.b023101-0.lon13.atlas.cogentco.com [130.117.51.74] 
+  7    74 ms    87 ms    74 ms  149.11.45.82 
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to bbc.com [151.101.0.81]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     4 ms  172.24.16.3 
+  2     4 ms     2 ms     3 ms  129.49.7.105 
+  3     6 ms     7 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     6 ms     5 ms     5 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     9 ms     7 ms     5 ms  151.101.0.81 
+
+Trace complete.
+
+Tracing route to fc2.com [34.214.57.160]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.2 
+  2     *        *        4 ms  129.49.7.105 
+  3     6 ms     6 ms     5 ms  nyc-9208-stonybrook.nysernet.net [199.109.5.129] 
+  4     6 ms     6 ms     5 ms  nyc32-55a1-nyc32-9208.nysernet.net [199.109.7.202] 
+  5    11 ms    11 ms    11 ms  syr-55a1-nyc32-55a1.nysernet.net [199.109.7.205] 
+  6    14 ms    14 ms    14 ms  buf-9208-syr-55a1.nysernet.net [199.109.7.214] 
+  7    19 ms    21 ms    21 ms  I2-CLEV-buf-9208.nysernet.net [199.109.11.34] 
+  8     *       66 ms    68 ms  fourhundredge-0-0-0-23.4079.core1.clev.net.internet2.edu [163.253.2.146] 
+  9    71 ms     *       67 ms  fourhundredge-0-0-0-2.4079.core1.eqch.net.internet2.edu [163.253.1.211] 
+ 10    70 ms    67 ms    69 ms  bundle-ether240.4076.core1.minn.net.internet2.edu [162.252.70.188] 
+ 11    67 ms    67 ms    67 ms  hundredge-0-0-0-30.4076.core1.miss2.net.internet2.edu [162.252.70.186] 
+ 12    77 ms    66 ms    68 ms  et-4-1-0.4077.rtsw.seat.net.internet2.edu [162.252.70.184] 
+ 13    66 ms    66 ms    68 ms  bundle-ether14.4078.core2.seat.net.internet2.edu [163.253.0.158] 
+ 14    68 ms    66 ms    68 ms  fourhundredge-0-0-0-51.4079.agg1.seat.net.internet2.edu [163.253.1.181] 
+ 15    64 ms    64 ms    67 ms  99.82.179.38 
+ 16    66 ms     *       68 ms  52.95.52.114 
+ 17    65 ms    65 ms    66 ms  52.95.52.131 
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23    72 ms    71 ms    72 ms  150.222.251.148 
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28    77 ms    73 ms    72 ms  150.222.247.113 
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to mozilla.org [44.236.48.31]
+over a maximum of 30 hops:
+
+  1     4 ms     3 ms     3 ms  172.24.16.3 
+  2     8 ms     4 ms     4 ms  129.49.7.105 
+  3     6 ms     7 ms     6 ms  nyc-9208-stonybrook.nysernet.net [199.109.5.129] 
+  4     6 ms     6 ms     5 ms  nyc32-55a1-nyc32-9208.nysernet.net [199.109.7.202] 
+  5    12 ms    11 ms    11 ms  syr-55a1-nyc32-55a1.nysernet.net [199.109.7.205] 
+  6    16 ms    44 ms    15 ms  buf-9208-syr-55a1.nysernet.net [199.109.7.214] 
+  7     *        *       21 ms  I2-CLEV-buf-9208.nysernet.net [199.109.11.34] 
+  8    95 ms   101 ms   100 ms  fourhundredge-0-0-0-2.4079.core2.eqch.net.internet2.edu [163.253.2.17] 
+  9    70 ms     *       71 ms  fourhundredge-0-0-0-17.4079.core1.eqch.net.internet2.edu [163.253.1.64] 
+ 10    68 ms    66 ms    66 ms  bundle-ether240.4076.core1.minn.net.internet2.edu [162.252.70.188] 
+ 11    70 ms    65 ms    67 ms  hundredge-0-0-0-30.4076.core1.miss2.net.internet2.edu [162.252.70.186] 
+ 12    69 ms    65 ms    66 ms  et-4-1-0.4077.rtsw.seat.net.internet2.edu [162.252.70.184] 
+ 13    67 ms    67 ms    68 ms  bundle-ether14.4078.core2.seat.net.internet2.edu [163.253.0.158] 
+ 14    67 ms    66 ms    69 ms  fourhundredge-0-0-0-51.4079.agg1.seat.net.internet2.edu [163.253.1.181] 
+ 15    67 ms    65 ms    64 ms  99.82.179.38 
+ 16    66 ms    65 ms    66 ms  52.95.52.250 
+ 17    71 ms    65 ms    65 ms  52.95.53.9 
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23    80 ms    74 ms    73 ms  52.93.131.140 
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28    75 ms    72 ms    72 ms  150.222.240.255 
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+
+Tracing route to rakuten.co.jp [133.237.16.234]
+over a maximum of 30 hops:
+
+  1     3 ms     2 ms     2 ms  172.24.16.2 
+  2     *        *        4 ms  129.49.7.105 
+  3     7 ms     6 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4    12 ms     6 ms     6 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5    20 ms    12 ms    12 ms  be2806.ccr41.dca01.atlas.cogentco.com [154.54.40.106] 
+  6    29 ms    28 ms    28 ms  be2112.ccr41.atl01.atlas.cogentco.com [154.54.7.158] 
+  7    42 ms    42 ms    42 ms  be2687.ccr41.iah01.atlas.cogentco.com [154.54.28.70] 
+  8    58 ms    59 ms    57 ms  be2927.ccr21.elp01.atlas.cogentco.com [154.54.29.222] 
+  9    66 ms    67 ms    66 ms  be2929.ccr31.phx01.atlas.cogentco.com [154.54.42.65] 
+ 10    81 ms    99 ms    77 ms  be2931.ccr41.lax01.atlas.cogentco.com [154.54.44.86] 
+ 11    80 ms    79 ms    77 ms  be3243.ccr41.lax05.atlas.cogentco.com [154.54.27.118] 
+ 12    77 ms    77 ms    78 ms  38.104.85.34 
+ 13   177 ms   172 ms   172 ms  tky001bb00.IIJ.Net [58.138.88.145] 
+ 14   173 ms   172 ms   172 ms  tky001ip56.IIJ.Net [58.138.101.30] 
+ 15   182 ms   177 ms   178 ms  202.232.9.10 
+ 16   172 ms   172 ms   171 ms  202.72.48.208 
+ 17   178 ms   179 ms   178 ms  202.72.48.166 
+ 18   183 ms   180 ms   178 ms  202.72.48.171 
+ 19   183 ms   177 ms   177 ms  rakuten.co.jp [133.237.16.234] 
+
+Trace complete.
+
+Tracing route to uptodown.com [23.208.59.187]
+over a maximum of 30 hops:
+
+  1     5 ms     5 ms     7 ms  172.24.16.3 
+  2     *        5 ms     4 ms  129.49.7.105 
+  3     6 ms     7 ms     6 ms  te0-3-0-13.rcr23.jfk01.atlas.cogentco.com [38.104.66.205] 
+  4     6 ms    18 ms    41 ms  be2896.ccr41.jfk02.atlas.cogentco.com [154.54.84.201] 
+  5     7 ms     7 ms     6 ms  be3495.ccr31.jfk10.atlas.cogentco.com [66.28.4.182] 
+  6    11 ms    10 ms     6 ms  att.jfk10.atlas.cogentco.com [154.54.10.98] 
+  7    17 ms    10 ms    10 ms  cr1.n54ny.ip.att.net [12.122.131.102] 
+  8    14 ms    14 ms    14 ms  phlpa21crs.ip.att.net [12.122.2.150] 
+  9    13 ms     8 ms     8 ms  12.123.224.245 
+ 10    17 ms     8 ms     8 ms  12.116.168.134 
+ 11   115 ms   388 ms   137 ms  ae6.netrality-phl.netarch.akamai.com [23.203.150.131] 
+ 12    12 ms     9 ms    10 ms  a23-208-59-187.deploy.static.akamaitechnologies.com [23.208.59.187] 
+
+Trace complete.
+
+Tracing route to cnn.com [151.101.193.67]
+over a maximum of 30 hops:
+
+  1     2 ms     2 ms     5 ms  172.24.16.3 
+  2     *        4 ms     4 ms  129.49.7.105 
+  3    16 ms     5 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     9 ms     5 ms     6 ms  nyc32-55a1-nyc32-9208.cdn.nysernet.net [199.109.107.202] 
+  5     *        *        *     Request timed out.
+  6     6 ms     5 ms     5 ms  151.101.193.67 
+
+Trace complete.
+
+Tracing route to soundcloud.com [18.67.65.77]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     4 ms  172.24.16.3 
+  2     5 ms     4 ms     4 ms  129.49.7.105 
+  3     7 ms     6 ms     5 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     9 ms     7 ms  phil-9204-nyc-9208.cdn.nysernet.net [199.109.107.186] 
+  5    14 ms    12 ms    11 ms  ash-9204-phil-9204.cdn.nysernet.net [199.109.107.182] 
+  6    11 ms    11 ms    12 ms  equinix01-iad2.amazon.com [206.126.236.68] 
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9    11 ms    11 ms    11 ms  150.222.236.80 
+ 10    14 ms    11 ms    12 ms  server-18-67-65-77.iad89.r.cloudfront.net [18.67.65.77] 
+
+Trace complete.
+
+Tracing route to google.com.ua [172.217.164.131]
+over a maximum of 30 hops:
+
+  1     3 ms     3 ms     3 ms  172.24.16.3 
+  2     *        *        *     Request timed out.
+  3     8 ms     5 ms     6 ms  nyc-9208-stonybrook-cdn.nysernet.net [199.109.105.129] 
+  4     8 ms     5 ms     6 ms  nyc111-9204-nyc-9208.cdn.nysernet.net [199.109.107.166] 
+  5     8 ms     5 ms     5 ms  72.14.202.166 
+  6     9 ms     7 ms     6 ms  108.170.248.84 
+  7    11 ms     *        *     142.251.49.43 
+  8    14 ms    11 ms    12 ms  142.251.65.241 
+  9    15 ms    12 ms    14 ms  142.251.49.161 
+ 10    18 ms    12 ms    12 ms  108.170.246.1 
+ 11    13 ms    12 ms    12 ms  108.170.232.1 
+ 12    11 ms    11 ms    13 ms  iad30s24-in-f3.1e100.net [172.217.164.131] 
+
+Trace complete.
