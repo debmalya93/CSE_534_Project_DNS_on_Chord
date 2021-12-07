@@ -10137,3 +10137,446 @@ FileNotFoundError: [Errno 2] No such file or directory: 'Data_Mapping.txt'
 [2021-12-06 19:01:22,847] client.Client<Client:41034>:OUTPUT: website : taboola.com, time : 30, hop cnt : 4
 [2021-12-06 19:01:22,899] client.Client<Client:41034>:OUTPUT: Result of query for hp.com = 15.72.164.74
 [2021-12-06 19:01:22,899] client.Client<Client:41034>:OUTPUT: website : hp.com, time : 51, hop cnt : 6
+[2021-12-06 19:08:23,998] main.Node_<Node_:16001>:OUTPUT: hash function collison:  0
+[2021-12-06 19:08:24,022] main.Node_<Node_:16001>:OUTPUT: Hash values for all the nodes in sorted order:  [744825103958415467, 1311413861465230225, 2174924234799856058, 2218638181316375899, 2389931553487536081, 2583658728049599207, 2720805875494263800, 2981622807199794270, 3173543135977719214, 3327496972375776226, 3709573500436405068, 4085718251303688003, 4590839448263017448, 4645576699269734711, 4754878590119250921, 4756740249111822691, 5586386870056788991, 6708246218371158225, 7101618472337995025, 7306639733101383118, 8174546508497103685, 8247680417858558267, 8346219466360017816, 8858659285436992527, 9977791455366398395, 10459529586519159983, 10729844965526419876, 11540741094311397161, 11635896788255826834, 11639626215608553557, 11730455773772007356, 11755986385982103626, 11792334398225114282, 12061593876061321800, 12298355577400634092, 12300368396174745221, 12303367320729715222, 12856723645306240529, 12865614260601321256, 12975274422074741480, 13559843776395552511, 13715328699388923119, 14426268199004765735, 15754158471208280996, 15942782726280185085, 16243204167477667821, 16333905340427635258, 16704166602198814566, 17164118625512459168, 17319211412876940651]
+[2021-12-06 19:08:29,522] client.Client<Client:2d034>:OUTPUT: <Client:2d034>  has been started.
+[2021-12-06 19:08:29,566] client.Client<Client:2d034>:OUTPUT: Result of query for google.com = 142.250.64.78
+[2021-12-06 19:08:29,566] client.Client<Client:2d034>:OUTPUT: website : google.com, time : 43, hop cnt : 4
+[2021-12-06 19:08:29,605] client.Client<Client:2d034>:OUTPUT: Result of query for youtube.com = 172.217.12.142
+[2021-12-06 19:08:29,605] client.Client<Client:2d034>:OUTPUT: website : youtube.com, time : 38, hop cnt : 5
+[2021-12-06 19:08:29,641] client.Client<Client:2d034>:OUTPUT: Result of query for facebook.com = 31.13.71.36
+[2021-12-06 19:08:29,641] client.Client<Client:2d034>:OUTPUT: website : facebook.com, time : 35, hop cnt : 4
+[2021-12-06 19:08:29,688] client.Client<Client:2d034>:OUTPUT: Result of query for baidu.com = 220.181.38.148
+[2021-12-06 19:08:29,688] client.Client<Client:2d034>:OUTPUT: website : baidu.com, time : 46, hop cnt : 5
+[2021-12-06 19:08:29,715] client.Client<Client:2d034>:OUTPUT: Result of query for wikipedia.org = 208.80.154.224
+[2021-12-06 19:08:29,716] client.Client<Client:2d034>:OUTPUT: website : wikipedia.org, time : 26, hop cnt : 5
+[2021-12-06 19:08:29,747] client.Client<Client:2d034>:OUTPUT: Result of query for yahoo.com = 74.6.231.21
+[2021-12-06 19:08:29,748] client.Client<Client:2d034>:OUTPUT: website : yahoo.com, time : 30, hop cnt : 3
+[2021-12-06 19:08:29,779] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.in = 172.217.12.131
+[2021-12-06 19:08:29,780] client.Client<Client:2d034>:OUTPUT: website : google.co.in, time : 31, hop cnt : 5
+[2021-12-06 19:08:29,810] client.Client<Client:2d034>:OUTPUT: Result of query for reddit.com = 151.101.1.140
+[2021-12-06 19:08:29,810] client.Client<Client:2d034>:OUTPUT: website : reddit.com, time : 29, hop cnt : 4
+[2021-12-06 19:08:29,849] client.Client<Client:2d034>:OUTPUT: Result of query for qq.com = 58.250.137.36
+[2021-12-06 19:08:29,849] client.Client<Client:2d034>:OUTPUT: website : qq.com, time : 37, hop cnt : 4
+[2021-12-06 19:08:29,888] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.com = 205.251.242.103
+[2021-12-06 19:08:29,888] client.Client<Client:2d034>:OUTPUT: website : amazon.com, time : 38, hop cnt : 5
+[2021-12-06 19:08:29,942] client.Client<Client:2d034>:OUTPUT: Result of query for taobao.com = 140.205.220.96
+[2021-12-06 19:08:29,942] client.Client<Client:2d034>:OUTPUT: website : taobao.com, time : 52, hop cnt : 6
+[2021-12-06 19:08:29,984] client.Client<Client:2d034>:OUTPUT: Result of query for twitter.com = 104.244.42.193
+[2021-12-06 19:08:29,984] client.Client<Client:2d034>:OUTPUT: website : twitter.com, time : 42, hop cnt : 6
+[2021-12-06 19:08:30,006] client.Client<Client:2d034>:OUTPUT: Result of query for tmall.com = 140.205.94.193
+[2021-12-06 19:08:30,007] client.Client<Client:2d034>:OUTPUT: website : tmall.com, time : 21, hop cnt : 3
+[2021-12-06 19:08:30,042] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.jp = 142.250.64.99
+[2021-12-06 19:08:30,042] client.Client<Client:2d034>:OUTPUT: website : google.co.jp, time : 34, hop cnt : 5
+[2021-12-06 19:08:30,076] client.Client<Client:2d034>:OUTPUT: Result of query for live.com = 204.79.197.212
+[2021-12-06 19:08:30,076] client.Client<Client:2d034>:OUTPUT: website : live.com, time : 33, hop cnt : 4
+[2021-12-06 19:08:30,110] client.Client<Client:2d034>:OUTPUT: Result of query for vk.com = 93.186.225.208
+[2021-12-06 19:08:30,111] client.Client<Client:2d034>:OUTPUT: website : vk.com, time : 31, hop cnt : 5
+[2021-12-06 19:08:30,147] client.Client<Client:2d034>:OUTPUT: Result of query for instagram.com = 3.216.253.146
+[2021-12-06 19:08:30,147] client.Client<Client:2d034>:OUTPUT: website : instagram.com, time : 34, hop cnt : 4
+[2021-12-06 19:08:30,181] client.Client<Client:2d034>:OUTPUT: Result of query for sohu.com = 211.159.191.18
+[2021-12-06 19:08:30,181] client.Client<Client:2d034>:OUTPUT: website : sohu.com, time : 33, hop cnt : 3
+[2021-12-06 19:08:30,229] client.Client<Client:2d034>:OUTPUT: Result of query for sina.com.cn = 123.126.45.205
+[2021-12-06 19:08:30,230] client.Client<Client:2d034>:OUTPUT: website : sina.com.cn, time : 47, hop cnt : 5
+[2021-12-06 19:08:30,267] client.Client<Client:2d034>:OUTPUT: Result of query for jd.com = 111.13.149.108
+[2021-12-06 19:08:30,268] client.Client<Client:2d034>:OUTPUT: website : jd.com, time : 37, hop cnt : 5
+[2021-12-06 19:08:30,328] client.Client<Client:2d034>:OUTPUT: Result of query for weibo.com = 47.254.92.5
+[2021-12-06 19:08:30,328] client.Client<Client:2d034>:OUTPUT: website : weibo.com, time : 59, hop cnt : 5
+[2021-12-06 19:08:30,379] client.Client<Client:2d034>:OUTPUT: Result of query for 360.cn = 36.99.170.84
+[2021-12-06 19:08:30,380] client.Client<Client:2d034>:OUTPUT: website : 360.cn, time : 50, hop cnt : 5
+[2021-12-06 19:08:30,417] client.Client<Client:2d034>:OUTPUT: Result of query for google.de = 172.217.165.131
+[2021-12-06 19:08:30,418] client.Client<Client:2d034>:OUTPUT: website : google.de, time : 36, hop cnt : 4
+[2021-12-06 19:08:30,458] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.uk = 172.217.10.67
+[2021-12-06 19:08:30,459] client.Client<Client:2d034>:OUTPUT: website : google.co.uk, time : 40, hop cnt : 6
+[2021-12-06 19:08:30,478] client.Client<Client:2d034>:OUTPUT: Result of query for linkedin.com = 108.174.10.10
+[2021-12-06 19:08:30,479] client.Client<Client:2d034>:OUTPUT: website : linkedin.com, time : 18, hop cnt : 3
+[2021-12-06 19:08:30,502] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.br = 172.217.12.163
+[2021-12-06 19:08:30,502] client.Client<Client:2d034>:OUTPUT: website : google.com.br, time : 23, hop cnt : 3
+[2021-12-06 19:08:30,523] client.Client<Client:2d034>:OUTPUT: Result of query for google.fr = 172.217.10.131
+[2021-12-06 19:08:30,524] client.Client<Client:2d034>:OUTPUT: website : google.fr, time : 20, hop cnt : 3
+[2021-12-06 19:08:30,570] client.Client<Client:2d034>:OUTPUT: Result of query for google.ru = 172.217.10.35
+[2021-12-06 19:08:30,571] client.Client<Client:2d034>:OUTPUT: website : google.ru, time : 45, hop cnt : 5
+[2021-12-06 19:08:30,609] client.Client<Client:2d034>:OUTPUT: Result of query for yandex.ru = 5.255.255.60
+[2021-12-06 19:08:30,609] client.Client<Client:2d034>:OUTPUT: website : yandex.ru, time : 37, hop cnt : 5
+[2021-12-06 19:08:30,659] client.Client<Client:2d034>:OUTPUT: Result of query for netflix.com = 107.21.29.216
+[2021-12-06 19:08:30,659] client.Client<Client:2d034>:OUTPUT: website : netflix.com, time : 49, hop cnt : 6
+[2021-12-06 19:08:30,703] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.hk = 172.217.165.131
+[2021-12-06 19:08:30,703] client.Client<Client:2d034>:OUTPUT: website : google.com.hk, time : 43, hop cnt : 5
+[2021-12-06 19:08:30,721] client.Client<Client:2d034>:OUTPUT: Result of query for yahoo.co.jp = 183.79.135.206
+[2021-12-06 19:08:30,722] client.Client<Client:2d034>:OUTPUT: website : yahoo.co.jp, time : 15, hop cnt : 4
+[2021-12-06 19:08:30,744] client.Client<Client:2d034>:OUTPUT: Result of query for google.it = 142.250.64.99
+[2021-12-06 19:08:30,745] client.Client<Client:2d034>:OUTPUT: website : google.it, time : 22, hop cnt : 3
+[2021-12-06 19:08:30,782] client.Client<Client:2d034>:OUTPUT: Result of query for ebay.com = 66.135.195.175
+[2021-12-06 19:08:30,782] client.Client<Client:2d034>:OUTPUT: website : ebay.com, time : 35, hop cnt : 6
+[2021-12-06 19:08:30,814] client.Client<Client:2d034>:OUTPUT: Result of query for google.es = 172.217.12.131
+[2021-12-06 19:08:30,814] client.Client<Client:2d034>:OUTPUT: website : google.es, time : 32, hop cnt : 3
+[2021-12-06 19:08:30,881] client.Client<Client:2d034>:OUTPUT: Result of query for pornhub.com = 66.254.114.41
+[2021-12-06 19:08:30,881] client.Client<Client:2d034>:OUTPUT: website : pornhub.com, time : 66, hop cnt : 6
+[2021-12-06 19:08:30,915] client.Client<Client:2d034>:OUTPUT: Result of query for imgur.com = 151.101.20.193
+[2021-12-06 19:08:30,915] client.Client<Client:2d034>:OUTPUT: website : imgur.com, time : 32, hop cnt : 4
+[2021-12-06 19:08:30,973] client.Client<Client:2d034>:OUTPUT: Result of query for bing.com = 13.107.21.200
+[2021-12-06 19:08:30,973] client.Client<Client:2d034>:OUTPUT: website : bing.com, time : 58, hop cnt : 6
+[2021-12-06 19:08:31,027] client.Client<Client:2d034>:OUTPUT: Result of query for msn.com = 13.82.28.61
+[2021-12-06 19:08:31,027] client.Client<Client:2d034>:OUTPUT: website : msn.com, time : 53, hop cnt : 5
+[2021-12-06 19:08:31,066] client.Client<Client:2d034>:OUTPUT: Result of query for onclkds.com = 139.45.196.76
+[2021-12-06 19:08:31,066] client.Client<Client:2d034>:OUTPUT: website : onclkds.com, time : 37, hop cnt : 4
+[2021-12-06 19:08:31,113] client.Client<Client:2d034>:OUTPUT: Result of query for twitch.tv = 151.101.194.167
+[2021-12-06 19:08:31,114] client.Client<Client:2d034>:OUTPUT: website : twitch.tv, time : 47, hop cnt : 5
+[2021-12-06 19:08:31,147] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.mx = 142.250.80.3
+[2021-12-06 19:08:31,148] client.Client<Client:2d034>:OUTPUT: website : google.com.mx, time : 32, hop cnt : 5
+[2021-12-06 19:08:31,177] client.Client<Client:2d034>:OUTPUT: Result of query for google.ca = 172.217.165.131
+[2021-12-06 19:08:31,178] client.Client<Client:2d034>:OUTPUT: website : google.ca, time : 27, hop cnt : 3
+[2021-12-06 19:08:31,208] client.Client<Client:2d034>:OUTPUT: Result of query for tumblr.com = 74.114.154.17
+[2021-12-06 19:08:31,209] client.Client<Client:2d034>:OUTPUT: website : tumblr.com, time : 29, hop cnt : 5
+[2021-12-06 19:08:31,254] client.Client<Client:2d034>:OUTPUT: Result of query for gmw.cn = 123.56.255.157
+[2021-12-06 19:08:31,255] client.Client<Client:2d034>:OUTPUT: website : gmw.cn, time : 45, hop cnt : 6
+[2021-12-06 19:08:31,297] client.Client<Client:2d034>:OUTPUT: Result of query for alipay.com = 110.75.129.5
+[2021-12-06 19:08:31,297] client.Client<Client:2d034>:OUTPUT: website : alipay.com, time : 41, hop cnt : 5
+[2021-12-06 19:08:31,339] client.Client<Client:2d034>:OUTPUT: Result of query for livejasmin.com = 109.71.161.200
+[2021-12-06 19:08:31,340] client.Client<Client:2d034>:OUTPUT: website : livejasmin.com, time : 41, hop cnt : 5
+[2021-12-06 19:08:31,384] client.Client<Client:2d034>:OUTPUT: Result of query for xvideos.com = 185.88.181.7
+[2021-12-06 19:08:31,384] client.Client<Client:2d034>:OUTPUT: website : xvideos.com, time : 43, hop cnt : 6
+[2021-12-06 19:08:31,427] client.Client<Client:2d034>:OUTPUT: Result of query for mail.ru = 217.69.139.202
+[2021-12-06 19:08:31,427] client.Client<Client:2d034>:OUTPUT: website : mail.ru, time : 42, hop cnt : 5
+[2021-12-06 19:08:31,462] client.Client<Client:2d034>:OUTPUT: Result of query for microsoft.com = 104.215.148.63
+[2021-12-06 19:08:31,462] client.Client<Client:2d034>:OUTPUT: website : microsoft.com, time : 34, hop cnt : 7
+[2021-12-06 19:08:31,518] client.Client<Client:2d034>:OUTPUT: Result of query for ok.ru = 217.20.147.1
+[2021-12-06 19:08:31,518] client.Client<Client:2d034>:OUTPUT: website : ok.ru, time : 55, hop cnt : 5
+[2021-12-06 19:08:31,548] client.Client<Client:2d034>:OUTPUT: Result of query for aliexpress.com = 198.11.132.250
+[2021-12-06 19:08:31,549] client.Client<Client:2d034>:OUTPUT: website : aliexpress.com, time : 29, hop cnt : 3
+[2021-12-06 19:08:31,600] client.Client<Client:2d034>:OUTPUT: Result of query for wordpress.com = 192.0.78.9
+[2021-12-06 19:08:31,600] client.Client<Client:2d034>:OUTPUT: website : wordpress.com, time : 50, hop cnt : 6
+[2021-12-06 19:08:31,623] client.Client<Client:2d034>:OUTPUT: Result of query for stackoverflow.com = 151.101.65.69
+[2021-12-06 19:08:31,624] client.Client<Client:2d034>:OUTPUT: website : stackoverflow.com, time : 22, hop cnt : 4
+[2021-12-06 19:08:31,646] client.Client<Client:2d034>:OUTPUT: Result of query for imdb.com = 52.94.237.74
+[2021-12-06 19:08:31,646] client.Client<Client:2d034>:OUTPUT: website : imdb.com, time : 20, hop cnt : 3
+[2021-12-06 19:08:31,690] client.Client<Client:2d034>:OUTPUT: Result of query for github.com = 140.82.113.3
+[2021-12-06 19:08:31,691] client.Client<Client:2d034>:OUTPUT: website : github.com, time : 43, hop cnt : 5
+[2021-12-06 19:08:31,716] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.co.jp = 52.119.164.121
+[2021-12-06 19:08:31,717] client.Client<Client:2d034>:OUTPUT: website : amazon.co.jp, time : 25, hop cnt : 3
+[2021-12-06 19:08:31,762] client.Client<Client:2d034>:OUTPUT: Result of query for pinterest.com = 151.101.0.84
+[2021-12-06 19:08:31,763] client.Client<Client:2d034>:OUTPUT: website : pinterest.com, time : 44, hop cnt : 6
+[2021-12-06 19:08:31,796] client.Client<Client:2d034>:OUTPUT: Result of query for csdn.net = 47.95.164.112
+[2021-12-06 19:08:31,797] client.Client<Client:2d034>:OUTPUT: website : csdn.net, time : 33, hop cnt : 4
+[2021-12-06 19:08:31,817] client.Client<Client:2d034>:OUTPUT: Result of query for wikia.com = 151.101.128.194
+[2021-12-06 19:08:31,817] client.Client<Client:2d034>:OUTPUT: website : wikia.com, time : 20, hop cnt : 2
+[2021-12-06 19:08:31,866] client.Client<Client:2d034>:OUTPUT: Result of query for apple.com = 17.253.144.10
+[2021-12-06 19:08:31,866] client.Client<Client:2d034>:OUTPUT: website : apple.com, time : 48, hop cnt : 5
+[2021-12-06 19:08:31,900] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.tr = 142.250.64.99
+[2021-12-06 19:08:31,900] client.Client<Client:2d034>:OUTPUT: website : google.com.tr, time : 33, hop cnt : 4
+[2021-12-06 19:08:31,943] client.Client<Client:2d034>:OUTPUT: Result of query for popads.net = 216.21.13.12
+[2021-12-06 19:08:31,944] client.Client<Client:2d034>:OUTPUT: website : popads.net, time : 42, hop cnt : 5
+[2021-12-06 19:08:31,989] client.Client<Client:2d034>:OUTPUT: Result of query for youth.cn = 123.103.5.94
+[2021-12-06 19:08:31,989] client.Client<Client:2d034>:OUTPUT: website : youth.cn, time : 43, hop cnt : 6
+[2021-12-06 19:08:32,022] client.Client<Client:2d034>:OUTPUT: Result of query for bongacams.com = 104.18.2.244
+[2021-12-06 19:08:32,023] client.Client<Client:2d034>:OUTPUT: website : bongacams.com, time : 32, hop cnt : 6
+[2021-12-06 19:08:32,084] client.Client<Client:2d034>:OUTPUT: Result of query for paypal.com = 64.4.250.36
+[2021-12-06 19:08:32,084] client.Client<Client:2d034>:OUTPUT: website : paypal.com, time : 60, hop cnt : 7
+[2021-12-06 19:08:32,114] client.Client<Client:2d034>:OUTPUT: Result of query for microsoftonline.com = 40.84.199.233
+[2021-12-06 19:08:32,114] client.Client<Client:2d034>:OUTPUT: website : microsoftonline.com, time : 29, hop cnt : 5
+[2021-12-06 19:08:32,167] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.tw = 172.217.11.35
+[2021-12-06 19:08:32,167] client.Client<Client:2d034>:OUTPUT: website : google.com.tw, time : 52, hop cnt : 7
+[2021-12-06 19:08:32,210] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.au = 142.250.64.99
+[2021-12-06 19:08:32,210] client.Client<Client:2d034>:OUTPUT: website : google.com.au, time : 42, hop cnt : 4
+[2021-12-06 19:08:32,231] client.Client<Client:2d034>:OUTPUT: Result of query for whatsapp.com = 31.13.66.56
+[2021-12-06 19:08:32,231] client.Client<Client:2d034>:OUTPUT: website : whatsapp.com, time : 21, hop cnt : 4
+[2021-12-06 19:08:32,260] client.Client<Client:2d034>:OUTPUT: Result of query for google.pl = 172.217.10.67
+[2021-12-06 19:08:32,261] client.Client<Client:2d034>:OUTPUT: website : google.pl, time : 27, hop cnt : 4
+[2021-12-06 19:08:32,289] client.Client<Client:2d034>:OUTPUT: Result of query for xhamster.com = 104.18.156.3
+[2021-12-06 19:08:32,289] client.Client<Client:2d034>:OUTPUT: website : xhamster.com, time : 27, hop cnt : 4
+[2021-12-06 19:08:32,307] client.Client<Client:2d034>:OUTPUT: Result of query for diply.com = 151.101.193.131
+[2021-12-06 19:08:32,307] client.Client<Client:2d034>:OUTPUT: website : diply.com, time : 17, hop cnt : 2
+[2021-12-06 19:08:32,345] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.id = 172.217.10.67
+[2021-12-06 19:08:32,345] client.Client<Client:2d034>:OUTPUT: website : google.co.id, time : 38, hop cnt : 5
+[2021-12-06 19:08:32,382] client.Client<Client:2d034>:OUTPUT: Result of query for adobe.com = 193.104.215.58
+[2021-12-06 19:08:32,382] client.Client<Client:2d034>:OUTPUT: website : adobe.com, time : 36, hop cnt : 4
+[2021-12-06 19:08:32,422] client.Client<Client:2d034>:OUTPUT: Result of query for coccoc.com = 123.30.175.29
+[2021-12-06 19:08:32,423] client.Client<Client:2d034>:OUTPUT: website : coccoc.com, time : 39, hop cnt : 5
+[2021-12-06 19:08:32,458] client.Client<Client:2d034>:OUTPUT: Result of query for craigslist.org = 208.82.237.129
+[2021-12-06 19:08:32,458] client.Client<Client:2d034>:OUTPUT: website : craigslist.org, time : 34, hop cnt : 5
+[2021-12-06 19:08:32,485] client.Client<Client:2d034>:OUTPUT: Result of query for txxx.com = 172.64.142.14
+[2021-12-06 19:08:32,485] client.Client<Client:2d034>:OUTPUT: website : txxx.com, time : 26, hop cnt : 4
+[2021-12-06 19:08:32,529] client.Client<Client:2d034>:OUTPUT: Result of query for dropbox.com = 162.125.248.1
+[2021-12-06 19:08:32,529] client.Client<Client:2d034>:OUTPUT: website : dropbox.com, time : 37, hop cnt : 5
+[2021-12-06 19:08:32,555] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.de = 52.95.120.34
+[2021-12-06 19:08:32,555] client.Client<Client:2d034>:OUTPUT: website : amazon.de, time : 25, hop cnt : 4
+[2021-12-06 19:08:32,578] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.ar = 172.217.12.195
+[2021-12-06 19:08:32,578] client.Client<Client:2d034>:OUTPUT: website : google.com.ar, time : 20, hop cnt : 4
+[2021-12-06 19:08:32,607] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.in = 54.239.33.92
+[2021-12-06 19:08:32,608] client.Client<Client:2d034>:OUTPUT: website : amazon.in, time : 28, hop cnt : 3
+[2021-12-06 19:08:32,677] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.pk = 142.250.80.3
+[2021-12-06 19:08:32,677] client.Client<Client:2d034>:OUTPUT: website : google.com.pk, time : 68, hop cnt : 8
+[2021-12-06 19:08:32,721] client.Client<Client:2d034>:OUTPUT: Result of query for booking.com = 5.57.16.220
+[2021-12-06 19:08:32,721] client.Client<Client:2d034>:OUTPUT: website : booking.com, time : 43, hop cnt : 5
+[2021-12-06 19:08:32,756] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.th = 172.217.10.227
+[2021-12-06 19:08:32,756] client.Client<Client:2d034>:OUTPUT: website : google.co.th, time : 33, hop cnt : 4
+[2021-12-06 19:08:32,808] client.Client<Client:2d034>:OUTPUT: Result of query for tianya.cn = 124.225.65.154
+[2021-12-06 19:08:32,808] client.Client<Client:2d034>:OUTPUT: website : tianya.cn, time : 52, hop cnt : 6
+[2021-12-06 19:08:32,845] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.eg = 172.217.10.35
+[2021-12-06 19:08:32,845] client.Client<Client:2d034>:OUTPUT: website : google.com.eg, time : 36, hop cnt : 5
+[2021-12-06 19:08:32,889] client.Client<Client:2d034>:OUTPUT: Result of query for china.com = 103.254.188.41
+[2021-12-06 19:08:32,889] client.Client<Client:2d034>:OUTPUT: website : china.com, time : 43, hop cnt : 5
+[2021-12-06 19:08:32,913] client.Client<Client:2d034>:OUTPUT: Result of query for bbc.co.uk = 151.101.0.81
+[2021-12-06 19:08:32,913] client.Client<Client:2d034>:OUTPUT: website : bbc.co.uk, time : 22, hop cnt : 4
+[2021-12-06 19:08:32,946] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.sa = 172.217.12.163
+[2021-12-06 19:08:32,947] client.Client<Client:2d034>:OUTPUT: website : google.com.sa, time : 32, hop cnt : 4
+[2021-12-06 19:08:32,994] client.Client<Client:2d034>:OUTPUT: Result of query for savefrom.net = 51.159.57.133
+[2021-12-06 19:08:32,995] client.Client<Client:2d034>:OUTPUT: website : savefrom.net, time : 46, hop cnt : 6
+[2021-12-06 19:08:33,036] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.co.uk = 54.239.34.171
+[2021-12-06 19:08:33,037] client.Client<Client:2d034>:OUTPUT: website : amazon.co.uk, time : 40, hop cnt : 6
+[2021-12-06 19:08:33,056] client.Client<Client:2d034>:OUTPUT: Result of query for bbc.com = 151.101.0.81
+[2021-12-06 19:08:33,056] client.Client<Client:2d034>:OUTPUT: website : bbc.com, time : 19, hop cnt : 4
+[2021-12-06 19:08:33,094] client.Client<Client:2d034>:OUTPUT: Result of query for fc2.com = 199.48.210.151
+[2021-12-06 19:08:33,094] client.Client<Client:2d034>:OUTPUT: website : fc2.com, time : 36, hop cnt : 4
+[2021-12-06 19:08:33,128] client.Client<Client:2d034>:OUTPUT: Result of query for mozilla.org = 44.236.48.31
+[2021-12-06 19:08:33,128] client.Client<Client:2d034>:OUTPUT: website : mozilla.org, time : 33, hop cnt : 4
+[2021-12-06 19:08:33,144] client.Client<Client:2d034>:OUTPUT: Result of query for rakuten.co.jp = 133.237.16.234
+[2021-12-06 19:08:33,145] client.Client<Client:2d034>:OUTPUT: website : rakuten.co.jp, time : 16, hop cnt : 4
+[2021-12-06 19:08:33,183] client.Client<Client:2d034>:OUTPUT: Result of query for uptodown.com = 23.54.188.103
+[2021-12-06 19:08:33,183] client.Client<Client:2d034>:OUTPUT: website : uptodown.com, time : 36, hop cnt : 3
+[2021-12-06 19:08:33,225] client.Client<Client:2d034>:OUTPUT: Result of query for cnn.com = 151.101.129.67
+[2021-12-06 19:08:33,225] client.Client<Client:2d034>:OUTPUT: website : cnn.com, time : 41, hop cnt : 5
+[2021-12-06 19:08:33,260] client.Client<Client:2d034>:OUTPUT: Result of query for soundcloud.com = 13.225.229.67
+[2021-12-06 19:08:33,260] client.Client<Client:2d034>:OUTPUT: website : soundcloud.com, time : 33, hop cnt : 5
+[2021-12-06 19:08:33,314] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.ua = 172.217.7.3
+[2021-12-06 19:08:33,314] client.Client<Client:2d034>:OUTPUT: website : google.com.ua, time : 54, hop cnt : 6
+[2021-12-06 19:08:33,362] client.Client<Client:2d034>:OUTPUT: Result of query for quora.com = 34.237.36.29
+[2021-12-06 19:08:33,362] client.Client<Client:2d034>:OUTPUT: website : quora.com, time : 47, hop cnt : 5
+[2021-12-06 19:08:33,379] client.Client<Client:2d034>:OUTPUT: Result of query for amazonaws.com = 72.21.210.29
+[2021-12-06 19:08:33,379] client.Client<Client:2d034>:OUTPUT: website : amazonaws.com, time : 16, hop cnt : 3
+[2021-12-06 19:08:33,417] client.Client<Client:2d034>:OUTPUT: Result of query for ask.com = 199.232.66.114
+[2021-12-06 19:08:33,417] client.Client<Client:2d034>:OUTPUT: website : ask.com, time : 37, hop cnt : 5
+[2021-12-06 19:08:33,457] client.Client<Client:2d034>:OUTPUT: Result of query for clicksgear.com = 192.243.59.12
+[2021-12-06 19:08:33,457] client.Client<Client:2d034>:OUTPUT: website : clicksgear.com, time : 39, hop cnt : 5
+[2021-12-06 19:08:33,466] client.Client<Client:2d034>:OUTPUT: Result of query for xnxx.com = 185.88.181.60
+[2021-12-06 19:08:33,466] client.Client<Client:2d034>:OUTPUT: website : xnxx.com, time : 9, hop cnt : 4
+[2021-12-06 19:08:33,490] client.Client<Client:2d034>:OUTPUT: Result of query for google.nl = 172.217.11.3
+[2021-12-06 19:08:33,491] client.Client<Client:2d034>:OUTPUT: website : google.nl, time : 23, hop cnt : 3
+[2021-12-06 19:08:33,517] client.Client<Client:2d034>:OUTPUT: Result of query for nytimes.com = 151.101.65.164
+[2021-12-06 19:08:33,518] client.Client<Client:2d034>:OUTPUT: website : nytimes.com, time : 26, hop cnt : 5
+[2021-12-06 19:08:33,536] client.Client<Client:2d034>:OUTPUT: Result of query for naver.com = 125.209.222.141
+[2021-12-06 19:08:33,537] client.Client<Client:2d034>:OUTPUT: website : naver.com, time : 19, hop cnt : 3
+[2021-12-06 19:08:33,596] client.Client<Client:2d034>:OUTPUT: Result of query for ettoday.net = 219.85.79.131
+[2021-12-06 19:08:33,596] client.Client<Client:2d034>:OUTPUT: website : ettoday.net, time : 59, hop cnt : 7
+[2021-12-06 19:08:33,636] client.Client<Client:2d034>:OUTPUT: Result of query for adf.ly = 104.20.81.199
+[2021-12-06 19:08:33,636] client.Client<Client:2d034>:OUTPUT: website : adf.ly, time : 39, hop cnt : 5
+[2021-12-06 19:08:33,669] client.Client<Client:2d034>:OUTPUT: Result of query for dailymotion.com = 195.8.215.136
+[2021-12-06 19:08:33,669] client.Client<Client:2d034>:OUTPUT: website : dailymotion.com, time : 32, hop cnt : 4
+[2021-12-06 19:08:33,703] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.za = 172.217.11.3
+[2021-12-06 19:08:33,704] client.Client<Client:2d034>:OUTPUT: website : google.co.za, time : 33, hop cnt : 3
+[2021-12-06 19:08:33,712] client.Client<Client:2d034>:OUTPUT: Result of query for steamcommunity.com = 23.192.34.24
+[2021-12-06 19:08:33,713] client.Client<Client:2d034>:OUTPUT: website : steamcommunity.com, time : 8, hop cnt : 3
+[2021-12-06 19:08:33,751] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.ve = 172.217.11.3
+[2021-12-06 19:08:33,751] client.Client<Client:2d034>:OUTPUT: website : google.co.ve, time : 36, hop cnt : 6
+[2021-12-06 19:08:33,798] client.Client<Client:2d034>:OUTPUT: Result of query for salesforce.com = 23.1.35.132
+[2021-12-06 19:08:33,799] client.Client<Client:2d034>:OUTPUT: website : salesforce.com, time : 47, hop cnt : 6
+[2021-12-06 19:08:33,831] client.Client<Client:2d034>:OUTPUT: Result of query for espn.com = 13.225.229.96
+[2021-12-06 19:08:33,831] client.Client<Client:2d034>:OUTPUT: website : espn.com, time : 30, hop cnt : 3
+[2021-12-06 19:08:33,859] client.Client<Client:2d034>:OUTPUT: Result of query for stackexchange.com = 151.101.193.69
+[2021-12-06 19:08:33,859] client.Client<Client:2d034>:OUTPUT: website : stackexchange.com, time : 27, hop cnt : 3
+[2021-12-06 19:08:33,898] client.Client<Client:2d034>:OUTPUT: Result of query for blogger.com = 142.250.80.9
+[2021-12-06 19:08:33,898] client.Client<Client:2d034>:OUTPUT: website : blogger.com, time : 38, hop cnt : 6
+[2021-12-06 19:08:33,934] client.Client<Client:2d034>:OUTPUT: Result of query for chase.com = 159.53.84.126
+[2021-12-06 19:08:33,935] client.Client<Client:2d034>:OUTPUT: website : chase.com, time : 35, hop cnt : 5
+[2021-12-06 19:08:33,963] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.kr = 142.250.80.3
+[2021-12-06 19:08:33,964] client.Client<Client:2d034>:OUTPUT: website : google.co.kr, time : 27, hop cnt : 5
+[2021-12-06 19:08:34,011] client.Client<Client:2d034>:OUTPUT: Result of query for ebay.de = 66.135.196.249
+[2021-12-06 19:08:34,012] client.Client<Client:2d034>:OUTPUT: website : ebay.de, time : 47, hop cnt : 5
+[2021-12-06 19:08:34,026] client.Client<Client:2d034>:OUTPUT: Result of query for vimeo.com = 151.101.192.217
+[2021-12-06 19:08:34,026] client.Client<Client:2d034>:OUTPUT: website : vimeo.com, time : 13, hop cnt : 4
+[2021-12-06 19:08:34,046] client.Client<Client:2d034>:OUTPUT: Result of query for vice.com = 52.200.45.101
+[2021-12-06 19:08:34,047] client.Client<Client:2d034>:OUTPUT: website : vice.com, time : 20, hop cnt : 3
+[2021-12-06 19:08:34,074] client.Client<Client:2d034>:OUTPUT: Result of query for theguardian.com = 151.101.1.111
+[2021-12-06 19:08:34,074] client.Client<Client:2d034>:OUTPUT: website : theguardian.com, time : 26, hop cnt : 4
+[2021-12-06 19:08:34,100] client.Client<Client:2d034>:OUTPUT: Result of query for blastingnews.com = 212.97.32.174
+[2021-12-06 19:08:34,100] client.Client<Client:2d034>:OUTPUT: website : blastingnews.com, time : 25, hop cnt : 3
+[2021-12-06 19:08:34,126] client.Client<Client:2d034>:OUTPUT: Result of query for tribunnews.com = 113.11.255.30
+[2021-12-06 19:08:34,126] client.Client<Client:2d034>:OUTPUT: website : tribunnews.com, time : 25, hop cnt : 3
+[2021-12-06 19:08:34,149] client.Client<Client:2d034>:OUTPUT: Result of query for steampowered.com = 23.192.8.254
+[2021-12-06 19:08:34,149] client.Client<Client:2d034>:OUTPUT: website : steampowered.com, time : 21, hop cnt : 4
+[2021-12-06 19:08:34,193] client.Client<Client:2d034>:OUTPUT: Result of query for chaturbate.com = 104.18.101.40
+[2021-12-06 19:08:34,194] client.Client<Client:2d034>:OUTPUT: website : chaturbate.com, time : 43, hop cnt : 5
+[2021-12-06 19:08:34,228] client.Client<Client:2d034>:OUTPUT: Result of query for ebay.co.uk = 66.135.196.249
+[2021-12-06 19:08:34,229] client.Client<Client:2d034>:OUTPUT: website : ebay.co.uk, time : 33, hop cnt : 5
+[2021-12-06 19:08:34,258] client.Client<Client:2d034>:OUTPUT: Result of query for detik.com = 203.190.242.211
+[2021-12-06 19:08:34,259] client.Client<Client:2d034>:OUTPUT: website : detik.com, time : 29, hop cnt : 4
+[2021-12-06 19:08:34,298] client.Client<Client:2d034>:OUTPUT: Result of query for google.gr = 142.250.64.99
+[2021-12-06 19:08:34,298] client.Client<Client:2d034>:OUTPUT: website : google.gr, time : 38, hop cnt : 5
+[2021-12-06 19:08:34,332] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.vn = 172.217.10.227
+[2021-12-06 19:08:34,332] client.Client<Client:2d034>:OUTPUT: website : google.com.vn, time : 32, hop cnt : 4
+[2021-12-06 19:08:34,348] client.Client<Client:2d034>:OUTPUT: Result of query for buzzfeed.com = 13.225.229.101
+[2021-12-06 19:08:34,348] client.Client<Client:2d034>:OUTPUT: website : buzzfeed.com, time : 15, hop cnt : 3
+[2021-12-06 19:08:34,381] client.Client<Client:2d034>:OUTPUT: Result of query for indeed.com = 18.218.22.89
+[2021-12-06 19:08:34,381] client.Client<Client:2d034>:OUTPUT: website : indeed.com, time : 32, hop cnt : 5
+[2021-12-06 19:08:34,403] client.Client<Client:2d034>:OUTPUT: Result of query for dailymail.co.uk = 23.41.6.195
+[2021-12-06 19:08:34,403] client.Client<Client:2d034>:OUTPUT: website : dailymail.co.uk, time : 21, hop cnt : 5
+[2021-12-06 19:08:34,431] client.Client<Client:2d034>:OUTPUT: Result of query for mediafire.com = 104.16.203.237
+[2021-12-06 19:08:34,432] client.Client<Client:2d034>:OUTPUT: website : mediafire.com, time : 26, hop cnt : 4
+[2021-12-06 19:08:34,458] client.Client<Client:2d034>:OUTPUT: Result of query for avito.ru = 185.89.12.132
+[2021-12-06 19:08:34,459] client.Client<Client:2d034>:OUTPUT: website : avito.ru, time : 26, hop cnt : 4
+[2021-12-06 19:08:34,486] client.Client<Client:2d034>:OUTPUT: Result of query for cnet.com = 35.190.79.82
+[2021-12-06 19:08:34,487] client.Client<Client:2d034>:OUTPUT: website : cnet.com, time : 27, hop cnt : 4
+[2021-12-06 19:08:34,515] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.sg = 172.217.165.131
+[2021-12-06 19:08:34,515] client.Client<Client:2d034>:OUTPUT: website : google.com.sg, time : 28, hop cnt : 5
+[2021-12-06 19:08:34,558] client.Client<Client:2d034>:OUTPUT: Result of query for globo.com = 186.192.90.5
+[2021-12-06 19:08:34,558] client.Client<Client:2d034>:OUTPUT: website : globo.com, time : 41, hop cnt : 6
+[2021-12-06 19:08:34,579] client.Client<Client:2d034>:OUTPUT: Result of query for xinhuanet.com = 202.108.119.193
+[2021-12-06 19:08:34,579] client.Client<Client:2d034>:OUTPUT: website : xinhuanet.com, time : 20, hop cnt : 3
+[2021-12-06 19:08:34,602] client.Client<Client:2d034>:OUTPUT: Result of query for spotify.com = 35.186.224.25
+[2021-12-06 19:08:34,602] client.Client<Client:2d034>:OUTPUT: website : spotify.com, time : 21, hop cnt : 4
+[2021-12-06 19:08:34,632] client.Client<Client:2d034>:OUTPUT: Result of query for flipkart.com = 163.53.76.86
+[2021-12-06 19:08:34,632] client.Client<Client:2d034>:OUTPUT: website : flipkart.com, time : 25, hop cnt : 3
+[2021-12-06 19:08:34,667] client.Client<Client:2d034>:OUTPUT: Result of query for ladbible.com = 104.17.98.32
+[2021-12-06 19:08:34,667] client.Client<Client:2d034>:OUTPUT: website : ladbible.com, time : 35, hop cnt : 6
+[2021-12-06 19:08:34,695] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.ph = 172.217.10.35
+[2021-12-06 19:08:34,696] client.Client<Client:2d034>:OUTPUT: website : google.com.ph, time : 25, hop cnt : 5
+[2021-12-06 19:08:34,723] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.co = 172.217.12.195
+[2021-12-06 19:08:34,724] client.Client<Client:2d034>:OUTPUT: website : google.com.co, time : 27, hop cnt : 4
+[2021-12-06 19:08:34,753] client.Client<Client:2d034>:OUTPUT: Result of query for popcash.net = 104.27.207.92
+[2021-12-06 19:08:34,754] client.Client<Client:2d034>:OUTPUT: website : popcash.net, time : 27, hop cnt : 5
+[2021-12-06 19:08:34,784] client.Client<Client:2d034>:OUTPUT: Result of query for google.be = 142.250.64.99
+[2021-12-06 19:08:34,785] client.Client<Client:2d034>:OUTPUT: website : google.be, time : 29, hop cnt : 5
+[2021-12-06 19:08:34,809] client.Client<Client:2d034>:OUTPUT: Result of query for google.se = 142.250.64.67
+[2021-12-06 19:08:34,809] client.Client<Client:2d034>:OUTPUT: website : google.se, time : 22, hop cnt : 4
+[2021-12-06 19:08:34,824] client.Client<Client:2d034>:OUTPUT: Result of query for deviantart.com = 99.84.237.60
+[2021-12-06 19:08:34,825] client.Client<Client:2d034>:OUTPUT: website : deviantart.com, time : 14, hop cnt : 3
+[2021-12-06 19:08:34,847] client.Client<Client:2d034>:OUTPUT: Result of query for zhihu.com = 103.41.167.234
+[2021-12-06 19:08:34,847] client.Client<Client:2d034>:OUTPUT: website : zhihu.com, time : 22, hop cnt : 4
+[2021-12-06 19:08:34,899] client.Client<Client:2d034>:OUTPUT: Result of query for google.cn = 172.217.7.3
+[2021-12-06 19:08:34,899] client.Client<Client:2d034>:OUTPUT: website : google.cn, time : 51, hop cnt : 6
+[2021-12-06 19:08:34,931] client.Client<Client:2d034>:OUTPUT: Result of query for roblox.com = 128.116.114.3
+[2021-12-06 19:08:34,931] client.Client<Client:2d034>:OUTPUT: website : roblox.com, time : 31, hop cnt : 3
+[2021-12-06 19:08:34,957] client.Client<Client:2d034>:OUTPUT: Result of query for walmart.com = 161.170.230.170
+[2021-12-06 19:08:34,957] client.Client<Client:2d034>:OUTPUT: website : walmart.com, time : 25, hop cnt : 3
+[2021-12-06 19:08:34,969] client.Client<Client:2d034>:OUTPUT: Result of query for google.az = 172.217.10.100
+[2021-12-06 19:08:34,969] client.Client<Client:2d034>:OUTPUT: website : google.az, time : 11, hop cnt : 3
+[2021-12-06 19:08:34,997] client.Client<Client:2d034>:OUTPUT: Result of query for uol.com.br = 200.147.35.149
+[2021-12-06 19:08:34,998] client.Client<Client:2d034>:OUTPUT: website : uol.com.br, time : 27, hop cnt : 4
+[2021-12-06 19:08:35,050] client.Client<Client:2d034>:OUTPUT: Result of query for force.com = 23.1.35.132
+[2021-12-06 19:08:35,051] client.Client<Client:2d034>:OUTPUT: website : force.com, time : 51, hop cnt : 6
+[2021-12-06 19:08:35,083] client.Client<Client:2d034>:OUTPUT: Result of query for upornia.com = 172.64.143.19
+[2021-12-06 19:08:35,083] client.Client<Client:2d034>:OUTPUT: website : upornia.com, time : 30, hop cnt : 4
+[2021-12-06 19:08:35,101] client.Client<Client:2d034>:OUTPUT: Result of query for wikihow.com = 151.101.66.110
+[2021-12-06 19:08:35,101] client.Client<Client:2d034>:OUTPUT: website : wikihow.com, time : 17, hop cnt : 3
+[2021-12-06 19:08:35,135] client.Client<Client:2d034>:OUTPUT: Result of query for yelp.com = 199.232.64.116
+[2021-12-06 19:08:35,135] client.Client<Client:2d034>:OUTPUT: website : yelp.com, time : 34, hop cnt : 5
+[2021-12-06 19:08:35,183] client.Client<Client:2d034>:OUTPUT: Result of query for daikynguyenvn.com = 172.67.147.194
+[2021-12-06 19:08:35,183] client.Client<Client:2d034>:OUTPUT: website : daikynguyenvn.com, time : 47, hop cnt : 5
+[2021-12-06 19:08:35,228] client.Client<Client:2d034>:OUTPUT: Result of query for w3schools.com = 66.29.212.110
+[2021-12-06 19:08:35,228] client.Client<Client:2d034>:OUTPUT: website : w3schools.com, time : 44, hop cnt : 5
+[2021-12-06 19:08:35,259] client.Client<Client:2d034>:OUTPUT: Result of query for washingtonpost.com = 104.108.117.10
+[2021-12-06 19:08:35,259] client.Client<Client:2d034>:OUTPUT: website : washingtonpost.com, time : 30, hop cnt : 4
+[2021-12-06 19:08:35,296] client.Client<Client:2d034>:OUTPUT: Result of query for china.com.cn = 202.130.245.42
+[2021-12-06 19:08:35,296] client.Client<Client:2d034>:OUTPUT: website : china.com.cn, time : 36, hop cnt : 6
+[2021-12-06 19:08:35,322] client.Client<Client:2d034>:OUTPUT: Result of query for godaddy.com = 208.109.192.70
+[2021-12-06 19:08:35,322] client.Client<Client:2d034>:OUTPUT: website : godaddy.com, time : 24, hop cnt : 3
+[2021-12-06 19:08:35,375] client.Client<Client:2d034>:OUTPUT: Result of query for etsy.com = 151.101.1.224
+[2021-12-06 19:08:35,375] client.Client<Client:2d034>:OUTPUT: website : etsy.com, time : 53, hop cnt : 6
+[2021-12-06 19:08:35,439] client.Client<Client:2d034>:OUTPUT: Result of query for rambler.ru = 81.19.82.98
+[2021-12-06 19:08:35,439] client.Client<Client:2d034>:OUTPUT: website : rambler.ru, time : 63, hop cnt : 7
+[2021-12-06 19:08:35,456] client.Client<Client:2d034>:OUTPUT: Result of query for alibaba.com = 198.11.132.198
+[2021-12-06 19:08:35,457] client.Client<Client:2d034>:OUTPUT: website : alibaba.com, time : 16, hop cnt : 2
+[2021-12-06 19:08:35,487] client.Client<Client:2d034>:OUTPUT: Result of query for sogou.com = 119.28.109.132
+[2021-12-06 19:08:35,487] client.Client<Client:2d034>:OUTPUT: website : sogou.com, time : 31, hop cnt : 4
+[2021-12-06 19:08:35,517] client.Client<Client:2d034>:OUTPUT: Result of query for nih.gov = 54.235.145.223
+[2021-12-06 19:08:35,517] client.Client<Client:2d034>:OUTPUT: website : nih.gov, time : 29, hop cnt : 3
+[2021-12-06 19:08:35,551] client.Client<Client:2d034>:OUTPUT: Result of query for google.at = 172.217.7.3
+[2021-12-06 19:08:35,551] client.Client<Client:2d034>:OUTPUT: website : google.at, time : 32, hop cnt : 4
+[2021-12-06 19:08:35,601] client.Client<Client:2d034>:OUTPUT: Result of query for hclips.com = 172.64.200.4
+[2021-12-06 19:08:35,601] client.Client<Client:2d034>:OUTPUT: website : hclips.com, time : 47, hop cnt : 6
+[2021-12-06 19:08:35,633] client.Client<Client:2d034>:OUTPUT: Result of query for softonic.com = 35.227.233.104
+[2021-12-06 19:08:35,633] client.Client<Client:2d034>:OUTPUT: website : softonic.com, time : 30, hop cnt : 3
+[2021-12-06 19:08:35,673] client.Client<Client:2d034>:OUTPUT: Result of query for redtube.com = 66.254.114.238
+[2021-12-06 19:08:35,673] client.Client<Client:2d034>:OUTPUT: website : redtube.com, time : 39, hop cnt : 6
+[2021-12-06 19:08:35,706] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.ng = 142.250.64.99
+[2021-12-06 19:08:35,707] client.Client<Client:2d034>:OUTPUT: website : google.com.ng, time : 32, hop cnt : 4
+[2021-12-06 19:08:35,739] client.Client<Client:2d034>:OUTPUT: Result of query for iwanttodeliver.com = 185.88.180.102
+[2021-12-06 19:08:35,740] client.Client<Client:2d034>:OUTPUT: website : iwanttodeliver.com, time : 32, hop cnt : 5
+[2021-12-06 19:08:35,798] client.Client<Client:2d034>:OUTPUT: Result of query for 9gag.com = 104.16.104.144
+[2021-12-06 19:08:35,798] client.Client<Client:2d034>:OUTPUT: website : 9gag.com, time : 58, hop cnt : 6
+[2021-12-06 19:08:35,840] client.Client<Client:2d034>:OUTPUT: Result of query for slack.com = 18.214.242.166
+[2021-12-06 19:08:35,840] client.Client<Client:2d034>:OUTPUT: website : slack.com, time : 41, hop cnt : 5
+[2021-12-06 19:08:35,881] client.Client<Client:2d034>:OUTPUT: Result of query for google.com.pe = 172.217.3.99
+[2021-12-06 19:08:35,882] client.Client<Client:2d034>:OUTPUT: website : google.com.pe, time : 40, hop cnt : 4
+[2021-12-06 19:08:35,913] client.Client<Client:2d034>:OUTPUT: Result of query for bankofamerica.com = 171.161.148.150
+[2021-12-06 19:08:35,913] client.Client<Client:2d034>:OUTPUT: website : bankofamerica.com, time : 29, hop cnt : 6
+[2021-12-06 19:08:35,935] client.Client<Client:2d034>:OUTPUT: Result of query for mercadolivre.com.br = 13.225.229.127
+[2021-12-06 19:08:35,936] client.Client<Client:2d034>:OUTPUT: website : mercadolivre.com.br, time : 21, hop cnt : 4
+[2021-12-06 19:08:35,971] client.Client<Client:2d034>:OUTPUT: Result of query for 4chan.org = 104.19.128.108
+[2021-12-06 19:08:35,971] client.Client<Client:2d034>:OUTPUT: website : 4chan.org, time : 32, hop cnt : 5
+[2021-12-06 19:08:35,995] client.Client<Client:2d034>:OUTPUT: Result of query for google.ro = 172.217.10.99
+[2021-12-06 19:08:35,995] client.Client<Client:2d034>:OUTPUT: website : google.ro, time : 23, hop cnt : 4
+[2021-12-06 19:08:36,014] client.Client<Client:2d034>:OUTPUT: Result of query for cpm10.com = 103.224.182.251
+[2021-12-06 19:08:36,014] client.Client<Client:2d034>:OUTPUT: website : cpm10.com, time : 18, hop cnt : 4
+[2021-12-06 19:08:36,042] client.Client<Client:2d034>:OUTPUT: Result of query for google.cz = 142.250.80.3
+[2021-12-06 19:08:36,043] client.Client<Client:2d034>:OUTPUT: website : google.cz, time : 27, hop cnt : 5
+[2021-12-06 19:08:36,070] client.Client<Client:2d034>:OUTPUT: Result of query for google.ch = 172.217.12.131
+[2021-12-06 19:08:36,070] client.Client<Client:2d034>:OUTPUT: website : google.ch, time : 27, hop cnt : 4
+[2021-12-06 19:08:36,097] client.Client<Client:2d034>:OUTPUT: Result of query for tripadvisor.com = 192.229.162.112
+[2021-12-06 19:08:36,097] client.Client<Client:2d034>:OUTPUT: website : tripadvisor.com, time : 25, hop cnt : 4
+[2021-12-06 19:08:36,134] client.Client<Client:2d034>:OUTPUT: Result of query for bet365.com = 5.226.176.16
+[2021-12-06 19:08:36,134] client.Client<Client:2d034>:OUTPUT: website : bet365.com, time : 36, hop cnt : 4
+[2021-12-06 19:08:36,177] client.Client<Client:2d034>:OUTPUT: Result of query for gfycat.com = 13.225.222.216
+[2021-12-06 19:08:36,177] client.Client<Client:2d034>:OUTPUT: website : gfycat.com, time : 42, hop cnt : 6
+[2021-12-06 19:08:36,198] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.fr = 52.95.120.39
+[2021-12-06 19:08:36,198] client.Client<Client:2d034>:OUTPUT: website : amazon.fr, time : 20, hop cnt : 3
+[2021-12-06 19:08:36,221] client.Client<Client:2d034>:OUTPUT: Result of query for discordapp.com = 162.159.134.233
+[2021-12-06 19:08:36,221] client.Client<Client:2d034>:OUTPUT: website : discordapp.com, time : 22, hop cnt : 4
+[2021-12-06 19:08:36,255] client.Client<Client:2d034>:OUTPUT: Result of query for google.cl = 172.217.9.227
+[2021-12-06 19:08:36,255] client.Client<Client:2d034>:OUTPUT: website : google.cl, time : 33, hop cnt : 5
+[2021-12-06 19:08:36,296] client.Client<Client:2d034>:OUTPUT: Result of query for wellsfargo.com = 159.45.66.143
+[2021-12-06 19:08:36,297] client.Client<Client:2d034>:OUTPUT: website : wellsfargo.com, time : 40, hop cnt : 5
+[2021-12-06 19:08:36,349] client.Client<Client:2d034>:OUTPUT: Result of query for trello.com = 18.234.32.193
+[2021-12-06 19:08:36,349] client.Client<Client:2d034>:OUTPUT: website : trello.com, time : 51, hop cnt : 6
+[2021-12-06 19:08:36,394] client.Client<Client:2d034>:OUTPUT: Result of query for amazon.it = 52.95.120.36
+[2021-12-06 19:08:36,395] client.Client<Client:2d034>:OUTPUT: website : amazon.it, time : 41, hop cnt : 5
+[2021-12-06 19:08:36,423] client.Client<Client:2d034>:OUTPUT: Result of query for indiatimes.com = 23.33.172.134
+[2021-12-06 19:08:36,423] client.Client<Client:2d034>:OUTPUT: website : indiatimes.com, time : 27, hop cnt : 3
+[2021-12-06 19:08:36,469] client.Client<Client:2d034>:OUTPUT: Result of query for battle.net = 137.221.106.104
+[2021-12-06 19:08:36,470] client.Client<Client:2d034>:OUTPUT: website : battle.net, time : 45, hop cnt : 7
+[2021-12-06 19:08:36,491] client.Client<Client:2d034>:OUTPUT: Result of query for google.pt = 172.217.6.195
+[2021-12-06 19:08:36,491] client.Client<Client:2d034>:OUTPUT: website : google.pt, time : 20, hop cnt : 2
+[2021-12-06 19:08:36,524] client.Client<Client:2d034>:OUTPUT: Result of query for zillow.com = 13.225.229.65
+[2021-12-06 19:08:36,525] client.Client<Client:2d034>:OUTPUT: website : zillow.com, time : 31, hop cnt : 5
+[2021-12-06 19:08:36,548] client.Client<Client:2d034>:OUTPUT: Result of query for google.co.ao = 142.250.64.99
+[2021-12-06 19:08:36,549] client.Client<Client:2d034>:OUTPUT: website : google.co.ao, time : 23, hop cnt : 4
+[2021-12-06 19:08:36,587] client.Client<Client:2d034>:OUTPUT: Result of query for messenger.com = 31.13.71.1
+[2021-12-06 19:08:36,587] client.Client<Client:2d034>:OUTPUT: website : messenger.com, time : 37, hop cnt : 6
+[2021-12-06 19:08:36,623] client.Client<Client:2d034>:OUTPUT: Result of query for google.no = 172.217.7.3
+[2021-12-06 19:08:36,623] client.Client<Client:2d034>:OUTPUT: website : google.no, time : 34, hop cnt : 5
+[2021-12-06 19:08:36,652] client.Client<Client:2d034>:OUTPUT: Result of query for kinogo.club = 75.2.37.224
+[2021-12-06 19:08:36,653] client.Client<Client:2d034>:OUTPUT: website : kinogo.club, time : 28, hop cnt : 6
+[2021-12-06 19:08:36,674] client.Client<Client:2d034>:OUTPUT: Result of query for mama.cn = 134.175.173.148
+[2021-12-06 19:08:36,675] client.Client<Client:2d034>:OUTPUT: website : mama.cn, time : 21, hop cnt : 4
+[2021-12-06 19:08:36,709] client.Client<Client:2d034>:OUTPUT: Result of query for gamepedia.com = 104.27.138.186
+[2021-12-06 19:08:36,710] client.Client<Client:2d034>:OUTPUT: website : gamepedia.com, time : 32, hop cnt : 6
+[2021-12-06 19:08:36,738] client.Client<Client:2d034>:OUTPUT: Result of query for youporn.com = 66.254.114.79
+[2021-12-06 19:08:36,739] client.Client<Client:2d034>:OUTPUT: website : youporn.com, time : 29, hop cnt : 6
+[2021-12-06 19:08:36,772] client.Client<Client:2d034>:OUTPUT: Result of query for forbes.com = 151.101.130.49
+[2021-12-06 19:08:36,772] client.Client<Client:2d034>:OUTPUT: website : forbes.com, time : 31, hop cnt : 4
+[2021-12-06 19:08:36,808] client.Client<Client:2d034>:OUTPUT: Result of query for yts.ag = 172.67.202.48
+[2021-12-06 19:08:36,809] client.Client<Client:2d034>:OUTPUT: website : yts.ag, time : 35, hop cnt : 5
+[2021-12-06 19:08:36,859] client.Client<Client:2d034>:OUTPUT: Result of query for tokopedia.com = 47.74.244.18
+[2021-12-06 19:08:36,859] client.Client<Client:2d034>:OUTPUT: website : tokopedia.com, time : 49, hop cnt : 5
+[2021-12-06 19:08:36,886] client.Client<Client:2d034>:OUTPUT: Result of query for google.ae = 142.250.64.99
+[2021-12-06 19:08:36,886] client.Client<Client:2d034>:OUTPUT: website : google.ae, time : 26, hop cnt : 4
+[2021-12-06 19:08:36,934] client.Client<Client:2d034>:OUTPUT: Result of query for abs-cbn.com = 23.63.246.57
+[2021-12-06 19:08:36,934] client.Client<Client:2d034>:OUTPUT: website : abs-cbn.com, time : 47, hop cnt : 6
+[2021-12-06 19:08:36,970] client.Client<Client:2d034>:OUTPUT: Result of query for youm7.com = 104.18.6.4
+[2021-12-06 19:08:36,970] client.Client<Client:2d034>:OUTPUT: website : youm7.com, time : 35, hop cnt : 6
+[2021-12-06 19:08:37,003] client.Client<Client:2d034>:OUTPUT: Result of query for pipeschannels.com = 139.45.196.73
+[2021-12-06 19:08:37,003] client.Client<Client:2d034>:OUTPUT: website : pipeschannels.com, time : 32, hop cnt : 5
+[2021-12-06 19:08:37,036] client.Client<Client:2d034>:OUTPUT: Result of query for weather.com = 104.126.221.252
+[2021-12-06 19:08:37,036] client.Client<Client:2d034>:OUTPUT: website : weather.com, time : 30, hop cnt : 4
+[2021-12-06 19:08:37,060] client.Client<Client:2d034>:OUTPUT: Result of query for outbrain.com = 192.82.210.254
+[2021-12-06 19:08:37,060] client.Client<Client:2d034>:OUTPUT: website : outbrain.com, time : 23, hop cnt : 4
+[2021-12-06 19:08:37,108] client.Client<Client:2d034>:OUTPUT: Result of query for ameblo.jp = 151.101.1.83
+[2021-12-06 19:08:37,109] client.Client<Client:2d034>:OUTPUT: website : ameblo.jp, time : 47, hop cnt : 6
+[2021-12-06 19:08:37,131] client.Client<Client:2d034>:OUTPUT: Result of query for ikea.com = 204.74.99.103
+[2021-12-06 19:08:37,132] client.Client<Client:2d034>:OUTPUT: website : ikea.com, time : 23, hop cnt : 5
+[2021-12-06 19:08:37,166] client.Client<Client:2d034>:OUTPUT: Result of query for kakaku.com = 103.70.243.165
+[2021-12-06 19:08:37,166] client.Client<Client:2d034>:OUTPUT: website : kakaku.com, time : 33, hop cnt : 4
+[2021-12-06 19:08:37,209] client.Client<Client:2d034>:OUTPUT: Result of query for trackmedia101.com = 103.224.182.251
+[2021-12-06 19:08:37,209] client.Client<Client:2d034>:OUTPUT: website : trackmedia101.com, time : 42, hop cnt : 6
+[2021-12-06 19:08:37,243] client.Client<Client:2d034>:OUTPUT: Result of query for mega.nz = 66.203.127.12
+[2021-12-06 19:08:37,243] client.Client<Client:2d034>:OUTPUT: website : mega.nz, time : 33, hop cnt : 4

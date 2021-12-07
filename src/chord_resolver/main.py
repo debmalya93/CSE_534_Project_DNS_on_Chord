@@ -93,7 +93,7 @@ class Node_(da.NodeProcess):
 
     def run(self):
         m = 64
-        data = fileread('data/Data_Mapping.txt')
+        data = fileread('data/data_mapping.txt')
         hash_vals = []
         repeats = []
         nodes = []

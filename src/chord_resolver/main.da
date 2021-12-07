@@ -94,7 +94,7 @@ def main():
 	m = 64
 	#m = 256
 	
-	data = fileread('data/Data_Mapping.txt')
+	data = fileread('data/data_mapping.txt')
 
 	hash_vals = []
 	repeats = []
